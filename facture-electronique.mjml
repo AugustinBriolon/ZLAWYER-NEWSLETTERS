@@ -1,0 +1,172 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'" color="#394454" />
+      <mj-text font-size="16px" line-height="1.6" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-button background-color="#ED630F" color="#ffffff" border-radius="999px" font-weight="600" inner-padding="12px 24px" />
+    </mj-attributes>
+
+    <mj-title>zLawyer — Newsletter</mj-title>
+    <mj-preview>Facturation électronique : ce qui change et vos options de mise en conformité</mj-preview>
+
+    <mj-style inline="inline">
+      .kicker { color:#ED630F; text-transform:uppercase; letter-spacing:0.6px; font-size:12px; font-weight:600; } .h1 { color:#222E3E; font-size:22px; line-height:1.35; font-weight:600; } .h2 { color:#222E3E; font-size:17px;
+      line-height:1.5; font-weight:600; } .muted { color:#5E6A7B; } .tag { display:inline-block; padding:4px 10px; border-radius:999px; background:#FFF0E6; color:#ED630F; font-size:12px; } .link { color:#ED630F; text-decoration:underline; }
+      .highlight { color:#ED630F; font-weight:600; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <!-- Header -->
+    <mj-section padding="20px 20px 0 20px">
+      <mj-column width="35%" vertical-align="middle">
+        <mj-table>
+          <tr>
+            <td style="vertical-align: middle">
+              <img src="https://www.zlawyer.fr/logiciel-avocats/images/logos/zeleLogo.png" alt="zLawyer" width="32" height="40" style="display: block" />
+            </td>
+            <td style="vertical-align: middle">
+              <span style="font-size: 20px; font-weight: 500; color: #222e3e">zLawyer</span>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="65%" padding-top="5px">
+        <mj-text align="right" font-size="11px">
+          <a href="https://www.zlawyer.fr/logiciel-avocats/">
+            <span style="color: #394454; text-decoration: none">ACCUEIL<span/>
+          </a>
+          <a href="https://www.zlawyer.fr/logiciel-avocats/contact/">
+            <span style="color: #394454; text-decoration: none">CONTACT<span/>
+          </a>
+          <a href="#">
+            <span style="color: #ed630f; text-decoration: none">NEWSLETTER<span/>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero / Intro -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text css-class="h1" padding="0 0 16px">La facturation électronique</mj-text>
+        <mj-text css-class="muted" padding="0 0 16px">À partir de 2026, la facturation électronique deviendra progressivement obligatoire pour toutes les entreprises.</mj-text>
+        <mj-text>
+          Cette réforme, portée par l'administration fiscale, vise à <span class="highlight">moderniser les échanges</span>, <span class="highlight">simplifier la gestion de la TVA</span> et
+          <span class="highlight">sécuriser les transactions</span>. Concrètement, toutes les factures entre entreprises devront transiter par une <span class="highlight">Plateforme Agréée (PA)</span> ou par le
+          <span class="highlight">Portail Public de Facturation (PPF)</span>. Ces plateformes auront pour rôle de transmettre, recevoir et archiver les factures dans un format électronique standardisé.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Bloc explication zLawyer -->
+    <mj-section padding="16px 24px 24px">
+      <mj-column padding="0 24px">
+        <mj-text css-class="h2" padding="0 0 8px">Un processus 100% numérique avec zLawyer</mj-text>
+        <mj-text>
+          Avec cette réforme, le processus de facturation devient entièrement <span class="highlight">numérique</span>. zLawyer se chargera de générer vos <span class="highlight">factures électroniques conformes</span> et de les transmettre
+          via la PA choisie, qu'il s'agisse de votre propre plateforme ou de celle intégrée à zLawyer.
+        </mj-text>
+        <mj-text>
+          👉 Pour les utilisateurs de la PA zLawyer, tout sera transparent et sans paramétrage supplémentaire.<br />
+          👉 Pour ceux ayant une PA externe, notre équipe assurera la mise en place de la liaison technique nécessaire pour un fonctionnement optimal.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Bloc conformité -->
+    <mj-section padding="16px 24px 24px">
+      <mj-column padding="0 24px">
+        <mj-text css-class="h2" padding="0 0 8px">Notre objectif : être pleinement “DA compliant”</mj-text>
+        <mj-text>
+          Chez zLawyer, nous avons <span class="highlight">anticipé cette évolution</span>. Nous travaillons activement avec plusieurs <span class="highlight">Plateformes Agréées (PA)</span> afin d'assurer une
+          <span class="highlight">intégration fluide et conforme</span> dans notre logiciel. L'objectif : garantir la <span class="highlight">conformité légale et technique</span> liée à la dématérialisation des factures.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Options -->
+    <mj-section padding="16px 24px 24px">
+      <mj-column padding="0 24px">
+        <mj-text css-class="h2" padding="0 0 8px">Vos options de mise en conformité</mj-text>
+        <mj-text padding="0 0 8px"><span class="tag">Option 1</span> — Utiliser votre propre Plateforme Agréée</mj-text>
+        <mj-text>Vous pouvez opter pour la PA de votre choix. Un paramétrage spécifique entre zLawyer et votre plateforme sera alors nécessaire, assuré par nos équipes via une intégration API.</mj-text>
+        <mj-text padding="12px 0 8px"><span class="tag">Option 2</span> — La plateforme intégrée à zLawyer</mj-text>
+        <mj-text>Pour une approche simplifiée, vous pourrez également opter pour la PA intégrée à zLawyer. Aucun paramétrage n’est requis : la gestion se fera automatiquement au sein de votre compte.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Résumé -->
+    <mj-section padding="16px 24px 24px">
+      <mj-column padding="0 24px">
+        <mj-text css-class="h2" padding="0 0 8px">En résumé</mj-text>
+        <mj-text>
+          • La facturation électronique devient obligatoire dès 2026<br />
+          • zLawyer sera “DA compliant” et prêt pour la réforme<br />
+          • Vous pouvez choisir votre propre PA ou passer par celle intégrée à zLawyer<br />
+          • Nos équipes vous accompagneront pour la solution la plus adaptée à vos besoins
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section Panda avec CTA -->
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="vertical-align: middle; width: 50%; padding-right: 0px">
+              <img src="https://www.zlawyer.fr/logiciel-avocats/images/pandas/panda.png" alt="Panda zLawyer" width="120" height="120" style="display: block; margin: 0 auto" />
+            </td>
+            <td style="vertical-align: middle; width: 50%; padding-left: 0px">
+              <div style="text-align: center">
+                <p style="margin: 0 0 16px 0; font-size: 16px; color: #394454">Besoin d'en discuter ?</p>
+                <a href="https://www.zlawyer.fr/logiciel-avocats/contact/" style="display: inline-block; background-color: #ed630f; color: #ffffff; padding: 12px 24px; border-radius: 999px; text-decoration: none; font-weight: 600"
+                  >Contactez nous</a
+                >
+              </div>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="24px">
+      <mj-column padding="0">
+        <mj-text align="center" padding="8px 0" font-size="12px" css-class="muted">© zLawyer — Tous droits réservés</mj-text>
+        <mj-text align="center" padding="0" font-size="12px"
+          ><a style="color: #5e6a7b; text-decoration: underline" href="https://www.zlawyer.fr/logiciel-avocats/politques-de-confidentialite/">Confidentialité</a> •
+          <a style="color: #5e6a7b; text-decoration: underline" href="https://www.zlawyer.fr/logiciel-avocats/politique-de-cookies/">Cookies</a> •
+          <a style="color: #5e6a7b; text-decoration: underline" href="[[UNSUB_LINK_EN]]">Se désabonner</a></mj-text
+        >
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

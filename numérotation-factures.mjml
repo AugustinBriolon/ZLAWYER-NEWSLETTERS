@@ -1,0 +1,344 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" color="#394454" />
+      <mj-text font-size="16px" line-height="1.6" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-button background-color="#ED630F" color="#ffffff" border-radius="999px" font-weight="600" inner-padding="12px 24px" />
+    </mj-attributes>
+
+    <mj-title>zLawyer — Newsletter</mj-title>
+    <mj-preview>Comment modifier la numérotation de vos factures pour la nouvelle année 2026</mj-preview>
+
+    <mj-style>
+      .outlook-fix { mso-line-height-rule: exactly; } /* Force les couleurs pour Outlook PC */ [data-ogsc] { color: inherit !important; } [data-ogsb] { background-color: inherit !important; } /* Empêche les changements de couleur des liens
+      au survol */ a { text-decoration: none !important; } a:link { color: inherit !important; text-decoration: none !important; } a:visited { color: inherit !important; text-decoration: none !important; } a:hover { color: inherit
+      !important; text-decoration: none !important; } a:active { color: inherit !important; text-decoration: none !important; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <!-- Header -->
+    <mj-section padding="20px 20px 0 20px">
+      <mj-column width="35%" vertical-align="middle">
+        <mj-table>
+          <tr>
+            <td style="vertical-align: middle; padding: 0; height: 40px; line-height: 40px; mso-line-height-rule: exactly; font-size: 0; overflow: visible" height="40">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+                <tr>
+                  <td style="height: 40px; width: 32px; padding: 0">
+                    <img src="https://www.zlawyer.fr/logiciel-avocats/images/logos/zeleLogo.png" alt="zLawyer" width="32" height="40" style="display: block; border: 0; outline: none; text-decoration: none; height: 40px; width: 32px" />
+                  </td>
+                </tr>
+              </table>
+            </td>
+            <td style="vertical-align: middle; padding-left: 8px">
+              <span style="font-size: 20px; font-weight: 500; color: #222e3e; line-height: 1.2">zLawyer</span>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="65%" padding-top="5px" vertical-align="middle">
+        <mj-text align="right" font-size="11px" line-height="1.5">
+          <a href="https://www.zlawyer.fr/logiciel-avocats/" style="color: #394454; text-decoration: none; mso-color-alt: #394454">ACCUEIL</a>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+          <a href="https://www.zlawyer.fr/logiciel-avocats/contact/" style="color: #394454; text-decoration: none; mso-color-alt: #394454">CONTACT</a>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+          <a href="#" style="color: #ed630f; text-decoration: none; mso-color-alt: #ed630f">NEWSLETTER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero / Intro -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0 0 8px" font-size="22px" line-height="1.35" font-weight="600" color="#222E3E">Nouvelle année 2026</mj-text>
+        <mj-text padding="0 0 16px" font-size="17px" line-height="1.5" font-weight="600" color="#222E3E">Comment modifier la numérotation de vos factures</mj-text>
+        <mj-text padding="0 0 16px" color="#5E6A7B"> Ce paramètre vous permet de régler votre ou vos compteur(s) de facturation si vous avez besoin de le réinitialiser pour la nouvelle année : </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Bloc étapes -->
+    <mj-section padding="16px 24px 24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0 0 16px" font-size="17px" line-height="1.5" font-weight="600" color="#222E3E">Les étapes :</mj-text>
+
+        <!-- Étape 1 avec tag en table (compatible Outlook PC) -->
+        <mj-text padding="0 0 12px">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: middle">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff0e6; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        padding: 4px 10px;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 1;
+                        mso-line-height-rule: exactly;
+                      "
+                      bgcolor="#fff0e6"
+                    >
+                      <span style="color: #ed630f">1</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: middle">Menu "Option"</td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <!-- Étape 2 avec tag en table -->
+        <mj-text padding="0 0 12px">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: middle">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff0e6; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        padding: 4px 10px;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 1;
+                        mso-line-height-rule: exactly;
+                      "
+                      bgcolor="#fff0e6"
+                    >
+                      <span style="color: #ed630f">2</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: middle">"Numération des factures"</td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 12px"> → La fenêtre "Compteur de facturation" s'ouvre… </mj-text>
+
+        <!-- Étape 3 avec tag en table -->
+        <mj-text padding="0 0 12px">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: middle">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff0e6; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        padding: 4px 10px;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 1;
+                        mso-line-height-rule: exactly;
+                      "
+                      bgcolor="#fff0e6"
+                    >
+                      <span style="color: #ed630f">3</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: middle">Cliquez sur "Modifier"</td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 12px"> → La fenêtre "Modifier le compteur" s'ouvre… </mj-text>
+
+        <!-- Étape 4 avec tag en table -->
+        <mj-text padding="0 0 12px">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: middle">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff0e6; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        padding: 4px 10px;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 1;
+                        mso-line-height-rule: exactly;
+                      "
+                      bgcolor="#fff0e6"
+                    >
+                      <span style="color: #ed630f">4</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: middle">Dans le champ "Dernier numéro", saisir "0" (zéro) puis cliquez sur "OK"</td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 12px"> La génération de votre compteur de facturation repartira à zéro pour cette nouvelle année… </mj-text>
+
+        <!-- Note importante avec style inline -->
+        <mj-text padding="12px 0 0 0"> <span style="color: #ed630f; font-weight: 600">Note importante :</span> Vous serez amené(e) à saisir votre mot de passe utilisateur afin que cette modification soit prise en compte. </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section tutoriels -->
+    <mj-section padding="16px 24px 24px">
+      <mj-column padding="0 24px">
+        <mj-text align="center" padding="0 0 12px" font-size="14px" color="#5E6A7B">Tutoriels détaillés disponibles :</mj-text>
+        <mj-text align="center" padding="0">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+            <tr>
+              <td style="padding-right: 24px; text-align: center">
+                <a href="https://help.zlawyer.fr/numerotation-des-factures/" style="color: #ed630f; text-decoration: none; mso-color-alt: #ed630f">Version PC</a>
+              </td>
+              <td style="text-align: center">
+                <a href="https://help-web.zlawyer.fr/numerotation-des-factures/" style="color: #ed630f; text-decoration: none; mso-color-alt: #ed630f">Version en ligne</a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section Panda avec CTA -->
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="vertical-align: middle; width: 50%; padding-right: 0px; height: 120px; line-height: 120px; mso-line-height-rule: exactly; font-size: 0; overflow: visible" height="120">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0 auto">
+                <tr>
+                  <td style="height: 120px; width: 120px; padding: 0">
+                    <img
+                      src="https://www.zlawyer.fr/logiciel-avocats/images/pandas/panda.png"
+                      alt="Panda zLawyer"
+                      width="120"
+                      height="120"
+                      style="display: block; border: 0; outline: none; text-decoration: none; height: 120px; width: 120px"
+                    />
+                  </td>
+                </tr>
+              </table>
+            </td>
+            <td style="vertical-align: middle; width: 50%; padding-left: 0px; text-align: center">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse">
+                <tr>
+                  <td style="padding: 0 0 16px 0; text-align: center">
+                    <p style="margin: 0; font-size: 16px; color: #394454; line-height: 1.5">zLawyer : Votre partenaire de confiance pour la facturation électronique</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align: center">
+                    <!-- Bouton CTA en table avec styles MSO pour Outlook PC -->
+                    <table
+                      border="0"
+                      cellpadding="0"
+                      cellspacing="0"
+                      style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0 auto; background-color: #ed630f; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                      bgcolor="#ed630f"
+                    >
+                      <tr>
+                        <td
+                          style="padding: 12px 24px; background-color: #ed630f; mso-background-color-alt: #ed630f; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px; line-height: 1; mso-line-height-rule: exactly"
+                          bgcolor="#ed630f"
+                        >
+                          <a
+                            href="https://www.zlawyer.fr/logiciel-avocats/facturation-electronique-et-zlawyer"
+                            style="color: #ffffff; mso-color-alt: #ffffff; text-decoration: none; font-weight: 600; font-size: 16px; font-family: 'Segoe UI', sans-serif; display: block"
+                            ><span style="color: #ffffff; text-decoration: none">En savoir plus</span></a
+                          >
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="24px">
+      <mj-column padding="0">
+        <mj-text align="center" padding="8px 0" font-size="12px" color="#5E6A7B">© zLawyer — Tous droits réservés</mj-text>
+        <mj-text align="center" padding="0" font-size="12px" color="#5E6A7B">
+          <a style="color: #5e6a7b; text-decoration: none; mso-color-alt: #5e6a7b" href="https://www.zlawyer.fr/logiciel-avocats/politques-de-confidentialite/">Confidentialité</a> •
+          <a style="color: #5e6a7b; text-decoration: none; mso-color-alt: #5e6a7b" href="https://www.zlawyer.fr/logiciel-avocats/politique-de-cookies/">Cookies</a> •
+          <a style="color: #5e6a7b; text-decoration: none; mso-color-alt: #5e6a7b" href="[[UNSUB_LINK_FR_FR]]">Se désabonner</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,375 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" color="#394454" />
+      <mj-text font-size="16px" line-height="1.6" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-button background-color="#ED630F" color="#ffffff" border-radius="999px" font-weight="600" inner-padding="12px 24px" />
+    </mj-attributes>
+
+    <mj-title>zLawyer — Meilleurs vœux 2026</mj-title>
+    <mj-preview>Cap sur 2026 : toute l'équipe zLawyer vous adresse ses meilleurs vœux</mj-preview>
+
+    <mj-style>
+      .outlook-fix { mso-line-height-rule: exactly; } /* Force les couleurs pour Outlook PC */ [data-ogsc] { color: inherit !important; } [data-ogsb] { background-color: inherit !important; } /* Empêche les changements de couleur des liens
+      au survol */ a { text-decoration: none !important; } a:link { color: inherit !important; text-decoration: none !important; } a:visited { color: inherit !important; text-decoration: none !important; } a:hover { color: inherit
+      !important; text-decoration: none !important; } a:active { color: inherit !important; text-decoration: none !important; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <!-- Header -->
+    <mj-section padding="20px 20px 0 20px">
+      <mj-column width="35%" vertical-align="middle">
+        <mj-table>
+          <tr>
+            <td style="vertical-align: middle; padding: 0; height: 40px; line-height: 40px; mso-line-height-rule: exactly; font-size: 0; overflow: visible" height="40">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+                <tr>
+                  <td style="height: 40px; width: 32px; padding: 0">
+                    <img src="https://www.zlawyer.fr/logiciel-avocats/images/logos/zeleLogo.png" alt="zLawyer" width="32" height="40" style="display: block; border: 0; outline: none; text-decoration: none; height: 40px; width: 32px" />
+                  </td>
+                </tr>
+              </table>
+            </td>
+            <td style="vertical-align: middle; padding-left: 8px">
+              <span style="font-size: 20px; font-weight: 500; color: #222e3e; line-height: 1.2">zLawyer</span>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="65%" padding-top="5px" vertical-align="middle">
+        <mj-text align="right" font-size="11px" line-height="1.5">
+          <a href="https://www.zlawyer.fr/logiciel-avocats/" style="color: #394454; text-decoration: none; mso-color-alt: #394454">ACCUEIL</a>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+          <a href="https://www.zlawyer.fr/logiciel-avocats/contact/" style="color: #394454; text-decoration: none; mso-color-alt: #394454">CONTACT</a>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+          <a href="#" style="color: #ed630f; text-decoration: none; mso-color-alt: #ed630f">NEWSLETTER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero / Intro avec GIF animé -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text align="center" padding="0 0 24px">
+          <!-- GIF animé logo -> 2026 -> logo -->
+          <img
+            src="https://x3h44.mjt.lu/img2/x3h44/b6bf0855-87f2-41fe-8402-6627aeab090c/content"
+            alt="zLawyer 2026"
+            width="400"
+            style="display: block; margin: 0 auto; max-width: 100%; height: auto; border: 0; outline: none; text-decoration: none"
+          />
+        </mj-text>
+        <mj-text padding="0 0 16px" font-size="22px" line-height="1.35" font-weight="600" color="#222E3E" align="center">Cap sur 2026 : toute l'équipe zLawyer vous adresse ses meilleurs vœux</mj-text>
+        <mj-text padding="0 0 16px" color="#5E6A7B"> Chers clients, chers partenaires, </mj-text>
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Alors que s'ouvre une nouvelle année, toute l'équipe <strong>zLawyer</strong> souhaite vous adresser ses <strong>meilleurs vœux pour 2026</strong>. Que cette année soit synonyme de <strong>sérénité, de réussite et d'élan</strong>,
+          tant dans vos projets professionnels que personnels.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : Merci pour votre confiance -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0 0 16px" font-size="17px" line-height="1.5" font-weight="600" color="#222E3E">Merci pour votre confiance et votre fidélité</mj-text>
+        <mj-text padding="0 0 12px" color="#5E6A7B"> Avant toute chose, <strong>merci</strong>. </mj-text>
+        <mj-text padding="0 0 12px" color="#5E6A7B"> Merci pour la confiance que vous nous accordez chaque jour. Merci pour votre fidélité, qui nous motive à progresser, à innover et à nous dépasser continuellement. </mj-text>
+        <mj-text padding="0 0 0" color="#5E6A7B"> C'est grâce à vous que zLawyer évolue et s'affirme, année après année, comme un <strong>partenaire fiable et engagé</strong> auprès des cabinets d'avocats. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : zLawyer une évolution continue -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0 0 16px" font-size="17px" line-height="1.5" font-weight="600" color="#222E3E">zLawyer : une évolution continue, à vos côtés</mj-text>
+        <mj-text padding="0 0 12px" color="#5E6A7B"> En 2025, nous avons poursuivi le développement de zLawyer avec un objectif constant : </mj-text>
+        
+        <!-- Check simplifier votre gestion -->
+        <mj-text padding="0 0 8px">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff0e6; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: top; color: #5E6A7B"><strong>simplifier votre gestion</strong>,</td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <!-- Check sécuriser vos processus -->
+        <mj-text padding="0 0 8px">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff0e6; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: middle; color: #5E6A7B"><strong>sécuriser vos processus</strong>,</td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <!-- Check vous faire gagner du temps -->
+        <mj-text padding="0 0 12px">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff0e6; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: middle; color: #5E6A7B"><strong>vous faire gagner du temps</strong>, pour que vous puissiez vous concentrer sur l'essentiel : votre métier et vos clients.</td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-text padding="0 0 0" color="#5E6A7B">
+          Derrière chaque évolution, chaque fonctionnalité, chaque amélioration, il y a des <strong>équipes compétentes, disponibles et engagées</strong>, à votre écoute au quotidien : support, produit, projets et accompagnement.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : 2026 facturation électronique -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0 0 16px" font-size="17px" line-height="1.5" font-weight="600" color="#222E3E">2026 : cap sur la facturation électronique</mj-text>
+        <mj-text padding="0 0 12px" color="#5E6A7B"> 2026 marque une étape clé pour la profession avec l'arrivée de la <strong>facturation électronique obligatoire</strong>. </mj-text>
+        <mj-text padding="0 0 12px" color="#5E6A7B"> Chez <strong>zLawyer</strong>, nous avons un engagement clair : </mj-text>
+        
+        <!-- Check rendre cette transition -->
+        <mj-text padding="0 0 12px">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff0e6; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: middle; color: #5E6A7B">rendre cette transition <strong>la plus fluide, transparente et simple possible</strong> pour nos utilisateurs.</td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-text padding="0 0 12px" color="#5E6A7B">
+          Anticipation, conformité, accompagnement : nos équipes travaillent activement pour que cette réforme soit <strong>une opportunité</strong>, et non une contrainte, dans la gestion de votre cabinet.
+        </mj-text>
+        <mj-text padding="0 0 24px" color="#5E6A7B"> Vous pourrez compter sur nous pour vous guider, pas à pas, vers une facturation électronique intégrée, sécurisée et adaptée à vos pratiques. </mj-text>
+        
+        <!-- CTA En savoir plus -->
+        <mj-text padding="0 0 0" align="center">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0 auto; background-color: #ed630f; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px"
+            bgcolor="#ed630f"
+          >
+            <tr>
+              <td
+                style="padding: 12px 24px; background-color: #ed630f; mso-background-color-alt: #ed630f; border-radius: 999px; -webkit-border-radius: 999px; -moz-border-radius: 999px; line-height: 1; mso-line-height-rule: exactly"
+                bgcolor="#ed630f"
+              >
+                <a
+                  href="https://www.zlawyer.fr/logiciel-avocats/facturation-electronique-et-zlawyer"
+                  style="color: #ffffff; mso-color-alt: #ffffff; text-decoration: none; font-weight: 500; font-size: 12px; font-family: 'Segoe UI', sans-serif; display: block"
+                  ><span style="color: #ffffff; text-decoration: none">En savoir plus</span></a
+                >
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : Continuons à avancer ensemble -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0 0 16px" font-size="17px" line-height="1.5" font-weight="600" color="#222E3E">Continuons à avancer ensemble</mj-text>
+        <mj-text padding="0 0 12px" color="#5E6A7B"> En 2026, nous continuerons à avancer avec la même exigence de <strong>qualité, de clarté et de proximité</strong>, aux côtés de celles et ceux qui nous font confiance. </mj-text>
+        <mj-text padding="0 0 12px" color="#5E6A7B"> Encore merci de faire partie de l'aventure <strong>zLawyer</strong>. </mj-text>
+        <mj-text padding="0 0 0" color="#5E6A7B"> Toute l'équipe <strong>zLawyer</strong> vous souhaite une <strong>excellente année 2026</strong>, riche en projets, en réussites et en sérénité. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider border-color="#CBD5E1" border-width="1px" padding="12px 0" width="60%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Signature -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0 0 0" color="#5E6A7B">
+          Bien cordialement,<br />
+          <strong>L'équipe zLawyer</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="24px">
+      <mj-column padding="0">
+        <mj-text align="center" padding="8px 0" font-size="12px" color="#5E6A7B">© zLawyer — Tous droits réservés</mj-text>
+        <mj-text align="center" padding="0" font-size="12px" color="#5E6A7B">
+          <a style="color: #5e6a7b; text-decoration: none; mso-color-alt: #5e6a7b" href="https://www.zlawyer.fr/logiciel-avocats/politques-de-confidentialite/">Confidentialité</a> •
+          <a style="color: #5e6a7b; text-decoration: none; mso-color-alt: #5e6a7b" href="https://www.zlawyer.fr/logiciel-avocats/politique-de-cookies/">Cookies</a> •
+          <a style="color: #5e6a7b; text-decoration: none; mso-color-alt: #5e6a7b" href="[[UNSUB_LINK_FR_FR]]">Se désabonner</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
