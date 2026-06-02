@@ -17,14 +17,8 @@
       />
     </mj-attributes>
 
-    <mj-title
-      >Prêt pour la RFE avec zLawyer - Activez votre Plateforme Agréée Pennylane
-      dès maintenant</mj-title
-    >
-    <mj-preview
-      >Échéances 2026/2027 : activez votre Plateforme Agréée Pennylane sans
-      surcoût</mj-preview
-    >
+    <mj-title>Activez votre Plateforme Agréée Pennylane dès maintenant</mj-title>
+    <mj-preview>Échéances 2026/2027 : activez votre PA Pennylane sans surcoût, directement depuis zLawyer</mj-preview>
 
     <mj-style>
       .outlook-fix {
@@ -172,16 +166,20 @@
         >
         <mj-text padding="0 0 16px" color="#5E6A7B">Cher client,</mj-text>
         <mj-text padding="0 0 16px" color="#5E6A7B">
-          Les échéances de la réforme de la facturation électronique se
-          rapprochent (<strong>septembre 2026 et 2027</strong>), c'est le moment
-          d'activer votre Plateforme Agréée.
+          Les échéances de la réforme de la facturation électronique approchent
+          progressivement (<strong>septembre 2026 et septembre 2027</strong>).
+          Afin d'aborder cette transition sereinement, nous vous invitons dès
+          aujourd'hui à activer votre Plateforme Agréée (PA) Pennylane
+          directement depuis zLawyer.
         </mj-text>
-        <mj-text padding="0 0 16px" color="#5E6A7B">
-          Directement intégrée à <strong>zLawyer</strong> et incluse sans frais supplémentaires dans votre abonnement, votre Plateforme Agréée Pennylane est prête à être activée.
+        <mj-text padding="0 0 0" color="#5E6A7B">
+          Intégrée à votre solution <strong>zLawyer</strong> et incluse dans
+          votre abonnement, cette démarche simple vous permet d'anticiper les
+          prochaines étapes de la réforme et de préparer votre organisation dès
+          maintenant.
         </mj-text>
       </mj-column>
     </mj-section>
-
 
     <mj-section padding="0 24px">
       <mj-column padding="0">
@@ -194,7 +192,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- Section : Pourquoi maintenant -->
+    <!-- Section : Pourquoi activer dès aujourd'hui -->
     <mj-section padding="24px">
       <mj-column padding="0 24px">
         <mj-text
@@ -203,7 +201,7 @@
           line-height="1.5"
           font-weight="600"
           color="#222E3E"
-          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Pourquoi le faire maintenant&nbsp;?</div></mj-text
+          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Pourquoi activer votre Plateforme Agréée dès aujourd'hui&nbsp;?</div></mj-text
         >
 
         <mj-text padding="0 0 8px">
@@ -250,8 +248,9 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                <strong>En conformité dès maintenant&nbsp;:</strong> évitez le
-                rush de dernière minute
+                <strong>Prenez de l'avance sur la réforme&nbsp;:</strong> évitez
+                les démarches de dernière minute et sécurisez dès aujourd'hui
+                une étape clé de votre mise en conformité.
               </td>
             </tr>
           </table>
@@ -301,8 +300,10 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                <strong>Profitez-en dès aujourd'hui&nbsp;:</strong> commencez à
-                recevoir vos factures Factur-X immédiatement
+                <strong>Simplifiez les prochaines étapes&nbsp;:</strong> votre
+                Plateforme Agréée sera déjà déclarée lorsque les futurs services
+                de facturation électronique seront progressivement déployés dans
+                zLawyer.
               </td>
             </tr>
           </table>
@@ -352,8 +353,10 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                <strong>Centralisez vos flux&nbsp;:</strong> toutes vos factures
-                (émises et reçues) au même endroit
+                <strong>Centralisez votre organisation avec zLawyer&nbsp;:</strong>
+                en déclarant votre Plateforme Agréée dès aujourd'hui, vous
+                préparez la centralisation de vos futurs échanges de factures
+                au sein de votre environnement habituel.
               </td>
             </tr>
           </table>
@@ -403,8 +406,9 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                <strong>Sans surcoût&nbsp;:</strong> tout est inclus dans votre
-                abonnement actuel
+                <strong>Aucun coût supplémentaire&nbsp;:</strong> l'accès à la
+                Plateforme Agréée Pennylane est inclus dans votre abonnement
+                actuel.
               </td>
             </tr>
           </table>
@@ -454,8 +458,9 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                <strong>Accompagnement garanti&nbsp;:</strong> nos équipes sont
-                disponibles pour vous guider
+                <strong>Un accompagnement dédié&nbsp;:</strong> nos équipes vous
+                accompagnent dans l'activation de votre Plateforme Agréée et
+                dans chaque étape de votre transition.
               </td>
             </tr>
           </table>
@@ -464,16 +469,9 @@
         <mj-text padding="0 0 16px" color="#5E6A7B">
           Pour vous accompagner pas à pas dans l'activation&nbsp;:
         </mj-text>
-        <mj-text padding="0 0 16px">
-          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; background-color: #F8F9FB; border-left: 3px solid #ED630F;">
-            <tr>
-              <td style="padding: 12px 16px; color: #5e6a7b; font-size: 15px; line-height: 1.6; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
-                ⏱&nbsp; Temps estimé : <strong>5 minutes</strong>
-              </td>
-            </tr>
-          </table>
-        </mj-text>
-        <mj-button href="#" align="left">Voir la vidéo de démonstration</mj-button>
+        <mj-button href="https://client.zlawyer.fr/formations/19" align="left"
+          >Voir la vidéo de démonstration</mj-button
+        >
       </mj-column>
     </mj-section>
 
@@ -488,7 +486,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- Section : Étapes d'activation -->
+    <!-- Section : Comment activer -->
     <mj-section padding="24px">
       <mj-column padding="0 24px">
         <mj-text
@@ -497,11 +495,8 @@
           line-height="1.5"
           font-weight="600"
           color="#222E3E"
-          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Les étapes d'activation</div></mj-text
+          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Comment activer votre Plateforme Agréée&nbsp;?</div></mj-text
         >
-        <mj-text padding="0 0 16px" color="#5E6A7B">
-          Directement depuis <strong>zLawyer</strong>&nbsp;:
-        </mj-text>
 
         <mj-text padding="0 0 12px">
           <table
@@ -548,8 +543,7 @@
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
                 <strong>Connectez-vous à votre compte zLawyer</strong><br />
-                Accédez à la plateforme et identifiez-vous avec vos identifiants
-                habituels.
+                Accédez à votre plateforme avec vos identifiants habituels.
               </td>
             </tr>
           </table>
@@ -600,9 +594,10 @@
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
                 <strong>Signez le mandat</strong><br />
-                Depuis la page [Nom de la page], signez le mandat pour désigner
-                zLawyer comme votre Solution Compatible (SC) à la Plateforme
-                Agréée (PA) Pennylane.
+                Depuis le menu « Facturation électronique », suivez les étapes
+                et signez le mandat permettant de désigner zLawyer comme votre
+                Solution Compatible (SC) reliée à la Plateforme Agréée (PA)
+                Pennylane.
               </td>
             </tr>
           </table>
@@ -652,10 +647,12 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                <strong>C'est terminé&nbsp;!</strong><br />
-                Vous êtes désormais conforme à la réglementation. Recevez et
-                émettez vos factures électroniques en toute sérénité, zLawyer
-                gère le reste pour vous.
+                <strong>Votre déclaration est enregistrée</strong><br />
+                Cette activation constitue le point de départ de votre
+                transition vers la facturation électronique. En réalisant cette
+                démarche dès aujourd'hui, vous préparez votre entreprise aux
+                prochaines fonctionnalités qui viendront enrichir votre espace
+                zLawyer et simplifier la gestion de vos flux de facturation.
               </td>
             </tr>
           </table>
@@ -674,38 +671,14 @@
       </mj-column>
     </mj-section>
 
-    <!-- Section : Besoin d'aide -->
+    <!-- Closing CTA + Signature -->
     <mj-section padding="24px">
       <mj-column padding="0 24px">
-        <mj-text
-          padding="0 0 16px"
-          font-size="17px"
-          line-height="1.5"
-          font-weight="600"
-          color="#222E3E"
-          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Besoin d'aide&nbsp;?</div></mj-text
-        >
-        <mj-text padding="0 0 16px" color="#5E6A7B">
-          Notre équipe reste à votre disposition pour toute question. <strong>N'attendez plus, activez votre conformité dès aujourd'hui&nbsp;!</strong>
+        <mj-text padding="0 0 24px" color="#5E6A7B">
+          <strong>N'attendez pas les dernières échéances&nbsp;: préparez dès
+          aujourd'hui votre transition vers la facturation électronique avec
+          zLawyer.</strong>
         </mj-text>
-        <mj-button href="https://www.zlawyer.fr/logiciel-avocats/contact/" align="left">Contactez-nous</mj-button>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding="0 24px">
-      <mj-column padding="0">
-        <mj-divider
-          border-color="#CBD5E1"
-          border-width="1px"
-          padding="12px 0"
-          width="60%"
-        />
-      </mj-column>
-    </mj-section>
-
-    <!-- Signature -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
         <mj-text padding="0 0 0" color="#5E6A7B">
           Bien cordialement,<br />
           <strong>L'équipe zLawyer</strong>
