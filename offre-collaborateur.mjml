@@ -18,12 +18,10 @@
     </mj-attributes>
 
     <mj-title
-      >Facturation électronique : zLawyer vous accompagne en toute
-      sérénité</mj-title
+      >Collaborateurs : découvrez la nouvelle offre zLawyer à 17€/mois</mj-title
     >
     <mj-preview
-      >Réforme 2026 : zLawyer vous accompagne simplement, sans urgence ni
-      complexité</mj-preview
+      >Votre propre compte zLawyer pour gérer votre activité indépendante — 17€ HT/mois, sans engagement</mj-preview
     >
 
     <mj-style>
@@ -168,199 +166,91 @@
           font-weight="600"
           color="#222E3E"
           align="center"
-          >Facturation électronique : zLawyer vous accompagne en toute
-          sérénité</mj-text
+          >Une nouvelle offre dédiée aux collaborateurs des cabinets zLawyer</mj-text
         >
         <mj-text padding="0 0 16px" color="#5E6A7B">Bonjour,</mj-text>
         <mj-text padding="0 0 16px" color="#5E6A7B">
-          Vous avez peut-être récemment reçu un email de l'administration
-          fiscale concernant la désignation d'une plateforme de réception de
-          factures électroniques.
+          Vous utilisez déjà zLawyer au sein de votre cabinet ?
         </mj-text>
+        <mj-text padding="0 0 0" color="#5E6A7B">
+          Nous lançons aujourd'hui une nouvelle offre spécialement conçue pour
+          les <strong>collaborateurs des cabinets équipés de zLawyer</strong>,
+          afin de gérer votre activité indépendante en toute simplicité.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider
+          border-color="#CBD5E1"
+          border-width="1px"
+          padding="12px 0"
+          width="60%"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : L'offre -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text
+          padding="0 0 16px"
+          font-size="17px"
+          line-height="1.5"
+          font-weight="600"
+          color="#222E3E"
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            zLawyer Collaborateur
+          </div></mj-text
+        >
+
+        <mj-text padding="0 0 16px">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            style="
+              border-collapse: collapse;
+              background-color: #fff8f4;
+              border-left: 3px solid #ed630f;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  padding: 16px 20px;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                "
+              >
+                <span
+                  style="
+                    font-size: 28px;
+                    font-weight: 700;
+                    color: #ed630f;
+                    line-height: 1.2;
+                  "
+                  >17€ HT / mois</span
+                ><br />
+                <span style="font-size: 14px; color: #5e6a7b"
+                  >Sans engagement</span
+                >
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
         <mj-text padding="0 0 16px" color="#5E6A7B">
-          <strong>Pas d'inquiétude : ce message est informatif.</strong><br />
-          Il vise simplement à vous encourager à anticiper une réforme qui
-          entrera progressivement en vigueur à partir de
-          <strong>septembre 2026</strong>.
-        </mj-text>
-        <mj-text padding="0 0 0" color="#5E6A7B">
-          Chez <strong>zLawyer</strong>, ce sujet est déjà pris en main. Notre
-          objectif est clair : vous permettre d'aborder cette évolution en toute
-          sérénité, sans complexité et sans changer vos habitudes.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding="0 24px">
-      <mj-column padding="0">
-        <mj-divider
-          border-color="#CBD5E1"
-          border-width="1px"
-          padding="12px 0"
-          width="60%"
-        />
-      </mj-column>
-    </mj-section>
-
-    <!-- Section : Ce que dit l'administration -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
-        <mj-text
-          padding="0 0 16px"
-          font-size="17px"
-          line-height="1.5"
-          font-weight="600"
-          color="#222E3E"
-          >Ce que dit l'administration (et ce que cela implique)</mj-text
-        >
-        <mj-text padding="0 0 12px" color="#5E6A7B"
-          >À partir de septembre 2026, toutes les entreprises devront être en
-          mesure de :</mj-text
-        >
-
-        <mj-text padding="0 0 8px">
-          <table
-            border="0"
-            cellpadding="0"
-            cellspacing="0"
-            style="border-collapse: collapse"
-          >
-            <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
-                <table
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                  style="
-                    border-collapse: collapse;
-                    background-color: #fff0e6;
-                    border-radius: 999px;
-                  "
-                  bgcolor="#fff0e6"
-                >
-                  <tr>
-                    <td
-                      style="
-                        width: 20px;
-                        height: 20px;
-                        padding: 0;
-                        font-size: 12px;
-                        font-weight: 600;
-                        color: #ed630f;
-                        font-family: 'Segoe UI', sans-serif;
-                        border-radius: 999px;
-                        line-height: 20px;
-                        text-align: center;
-                      "
-                      bgcolor="#fff0e6"
-                      width="20"
-                      height="20"
-                    >
-                      <span style="color: #ed630f">✓</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                Recevoir des factures électroniques
-              </td>
-            </tr>
-          </table>
-        </mj-text>
-
-        <mj-text padding="0 0 12px">
-          <table
-            border="0"
-            cellpadding="0"
-            cellspacing="0"
-            style="border-collapse: collapse"
-          >
-            <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
-                <table
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                  style="
-                    border-collapse: collapse;
-                    background-color: #fff0e6;
-                    border-radius: 999px;
-                  "
-                  bgcolor="#fff0e6"
-                >
-                  <tr>
-                    <td
-                      style="
-                        width: 20px;
-                        height: 20px;
-                        padding: 0;
-                        font-size: 12px;
-                        font-weight: 600;
-                        color: #ed630f;
-                        font-family: 'Segoe UI', sans-serif;
-                        border-radius: 999px;
-                        line-height: 20px;
-                        text-align: center;
-                      "
-                      bgcolor="#fff0e6"
-                      width="20"
-                      height="20"
-                    >
-                      <span style="color: #ed630f">✓</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                Via une plateforme de votre choix agréée par l'administration
-                (PA)
-              </td>
-            </tr>
-          </table>
-        </mj-text>
-
-        <mj-text padding="0 0 12px" color="#5E6A7B">
-          Le message que vous avez reçu indique simplement que ce choix n'a pas
-          encore été identifié côté administration.
-        </mj-text>
-        <mj-text padding="0 0 0" color="#5E6A7B">
-          <strong>Aucune action urgente n'est requise</strong>, mais il est
-          normal d'anticiper dès maintenant.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0 24px">
-      <mj-column padding="0">
-        <mj-divider
-          border-color="#CBD5E1"
-          border-width="1px"
-          padding="12px 0"
-          width="60%"
-        />
-      </mj-column>
-    </mj-section>
-
-    <!-- Section : Ce que zLawyer met en place -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
-        <mj-text
-          padding="0 0 16px"
-          font-size="17px"
-          line-height="1.5"
-          font-weight="600"
-          color="#222E3E"
-          >Ce que zLawyer met en place pour vous</mj-text
-        >
-        <mj-text padding="0 0 12px" color="#5E6A7B">
-          Nous finalisons actuellement un partenariat avec
-          <strong>Pennylane</strong>, plateforme agréée de référence, reconnue
-          pour sa fiabilité et sa conformité.
-        </mj-text>
-        <mj-text padding="0 0 16px" color="#5E6A7B">
-          Concrètement :<br />
-          <strong>Si vous choisissez Pennylane</strong>, vous pourrez gérer
-          l'ensemble de votre facturation directement dans zLawyer, sans
-          changement dans votre quotidien.
+          Cette offre vous permet de disposer de votre propre compte zLawyer
+          pour gérer votre activité indépendante. Concrètement, vous
+          pouvez&nbsp;:
         </mj-text>
 
         <mj-text padding="0 0 8px">
@@ -407,7 +297,7 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                Vous continuez à facturer comme aujourd'hui
+                Refacturer le cabinet dans lequel vous exercez
               </td>
             </tr>
           </table>
@@ -457,8 +347,7 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                Vos factures sont automatiquement au format réglementaire
-                (Factur-X)
+                Gérer vos dossiers personnels
               </td>
             </tr>
           </table>
@@ -508,143 +397,7 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                Leur réception et transmission sont assurées via une plateforme
-                agréée
-              </td>
-            </tr>
-          </table>
-        </mj-text>
-
-        <mj-text padding="0 0 12px">
-          <table
-            border="0"
-            cellpadding="0"
-            cellspacing="0"
-            style="border-collapse: collapse"
-          >
-            <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
-                <table
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                  style="
-                    border-collapse: collapse;
-                    background-color: #fff0e6;
-                    border-radius: 999px;
-                  "
-                  bgcolor="#fff0e6"
-                >
-                  <tr>
-                    <td
-                      style="
-                        width: 20px;
-                        height: 20px;
-                        padding: 0;
-                        font-size: 12px;
-                        font-weight: 600;
-                        color: #ed630f;
-                        font-family: 'Segoe UI', sans-serif;
-                        border-radius: 999px;
-                        line-height: 20px;
-                        text-align: center;
-                      "
-                      bgcolor="#fff0e6"
-                      width="20"
-                      height="20"
-                    >
-                      <span style="color: #ed630f">✓</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                La conformité est gérée en arrière-plan
-              </td>
-            </tr>
-          </table>
-        </mj-text>
-
-        <mj-text padding="0 0 0" color="#5E6A7B">
-          Vous restez bien sûr libre de choisir une autre plateforme agréée, en
-          fonction de vos besoins ou de votre organisation.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0 24px">
-      <mj-column padding="0">
-        <mj-divider
-          border-color="#CBD5E1"
-          border-width="1px"
-          padding="12px 0"
-          width="60%"
-        />
-      </mj-column>
-    </mj-section>
-
-    <!-- Section : Intégration en cours -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
-        <mj-text
-          padding="0 0 16px"
-          font-size="17px"
-          line-height="1.5"
-          font-weight="600"
-          color="#222E3E"
-          >Une intégration en cours de finalisation</mj-text
-        >
-        <mj-text padding="0 0 12px" color="#5E6A7B"
-          >L'intégration est actuellement en cours de déploiement.</mj-text
-        >
-        <mj-text padding="0 0 12px" color="#5E6A7B"
-          >Très prochainement, vous pourrez :</mj-text
-        >
-
-        <mj-text padding="0 0 8px">
-          <table
-            border="0"
-            cellpadding="0"
-            cellspacing="0"
-            style="border-collapse: collapse"
-          >
-            <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
-                <table
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                  style="
-                    border-collapse: collapse;
-                    background-color: #fff0e6;
-                    border-radius: 999px;
-                  "
-                  bgcolor="#fff0e6"
-                >
-                  <tr>
-                    <td
-                      style="
-                        width: 20px;
-                        height: 20px;
-                        padding: 0;
-                        font-size: 12px;
-                        font-weight: 600;
-                        color: #ed630f;
-                        font-family: 'Segoe UI', sans-serif;
-                        border-radius: 999px;
-                        line-height: 20px;
-                        text-align: center;
-                      "
-                      bgcolor="#fff0e6"
-                      width="20"
-                      height="20"
-                    >
-                      <span style="color: #ed630f">✓</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                Activer Pennylane directement depuis zLawyer
+                Émettre vos factures électroniques
               </td>
             </tr>
           </table>
@@ -694,7 +447,107 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                Être opérationnel en quelques clics
+                Suivre votre activité et votre chiffre d'affaires
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 8px">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            style="border-collapse: collapse"
+          >
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="
+                    border-collapse: collapse;
+                    background-color: #fff0e6;
+                    border-radius: 999px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        color: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        line-height: 20px;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+                Accéder à vos tableaux de bord financiers
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 8px">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            style="border-collapse: collapse"
+          >
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="
+                    border-collapse: collapse;
+                    background-color: #fff0e6;
+                    border-radius: 999px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        color: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        line-height: 20px;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+                Relancer vos impayés
               </td>
             </tr>
           </table>
@@ -744,13 +597,14 @@
                 </table>
               </td>
               <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                Sans paramétrage complexe
+                Utiliser l'application mobile zLawyer
               </td>
             </tr>
           </table>
         </mj-text>
       </mj-column>
     </mj-section>
+
     <mj-section padding="0 24px">
       <mj-column padding="0">
         <mj-divider
@@ -762,7 +616,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- Section : Résumé -->
+    <!-- Section : Pourquoi cette offre -->
     <mj-section padding="24px">
       <mj-column padding="0 24px">
         <mj-text
@@ -771,42 +625,137 @@
           line-height="1.5"
           font-weight="600"
           color="#222E3E"
-          >En résumé</mj-text
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Pourquoi cette offre&nbsp;?
+          </div></mj-text
         >
-
-        <mj-text padding="0 0 8px" color="#5E6A7B"
-          >Le message des impôts est préventif, pas alarmant</mj-text
-        >
-        <mj-text padding="0 0 8px" color="#5E6A7B"
-          >Vous avez le temps de vous organiser</mj-text
-        >
-        <mj-text padding="0 0 8px" color="#5E6A7B"
-          >Vous êtes déjà accompagnés par zLawyer</mj-text
-        >
-        <mj-text padding="0 0 12px" color="#5E6A7B"
-          >La transition sera simple, flexible et sécurisée</mj-text
-        >
-
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          De nombreux collaborateurs sont amenés à exercer une activité
+          indépendante en parallèle de leur collaboration au cabinet.
+        </mj-text>
         <mj-text padding="0 0 0" color="#5E6A7B">
-          Nous restons à votre disposition pour toute question et vous tiendrons
-          informés très prochainement des prochaines étapes.
+          <strong>zLawyer Collaborateur</strong> leur permet de bénéficier
+          d'une plateforme dédiée à cette activité, tout en restant
+          parfaitement autonomes.
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- Section : Résumé -->
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider
+          border-color="#CBD5E1"
+          border-width="1px"
+          padding="12px 0"
+          width="60%"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : Facturation électronique incluse -->
     <mj-section padding="24px">
       <mj-column padding="0 24px">
-        <mj-text padding="10px 0 0" color="#5E6A7B">
-          Pour en savoir plus :
-          <a
-            class="zl-link-underline"
-            style="color: #5e6a7b; mso-color-alt: #5e6a7b"
-            href="https://www.zlawyer.fr/logiciel-avocats/facturation-electronique-et-zlawyer/"
+        <mj-text
+          padding="0 0 16px"
+          font-size="17px"
+          line-height="1.5"
+          font-weight="600"
+          color="#222E3E"
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
           >
-            <strong>Cliquez ici</strong>
-          </a>
+            Facturation électronique incluse
+          </div></mj-text
+        >
+        <mj-text padding="0 0 0" color="#5E6A7B">
+          Avec la réforme de la facturation électronique qui entre
+          progressivement en vigueur, vous disposez dès aujourd'hui d'un outil
+          conforme pour gérer vos factures électroniques en toute sérénité.
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider
+          border-color="#CBD5E1"
+          border-width="1px"
+          padding="12px 0"
+          width="60%"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : Conditions d'accès -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text
+          padding="0 0 16px"
+          font-size="17px"
+          line-height="1.5"
+          font-weight="600"
+          color="#222E3E"
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Conditions d'accès
+          </div></mj-text
+        >
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          L'offre <strong>zLawyer Collaborateur</strong> est exclusivement
+          réservée aux collaborateurs déjà utilisateurs de zLawyer via leur
+          cabinet.
+        </mj-text>
+
+        <mj-text padding="0 0 16px">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            style="
+              border-collapse: collapse;
+              background-color: #f8f9fb;
+              border-left: 3px solid #ed630f;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  padding: 12px 16px;
+                  color: #5e6a7b;
+                  font-size: 15px;
+                  line-height: 1.6;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                "
+              >
+                <strong style="color: #222e3e">17€ HT / mois</strong>
+                — Sans engagement
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-button
+          href="https://www.zlawyer.fr/logiciel-avocats/contact/"
+          align="left"
+          color="#ffffff"
+          >Je souhaite m'abonner</mj-button
+        >
       </mj-column>
     </mj-section>
 

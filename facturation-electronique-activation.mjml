@@ -17,8 +17,13 @@
       />
     </mj-attributes>
 
-    <mj-title>Activez votre Plateforme Agréée Pennylane dès maintenant</mj-title>
-    <mj-preview>Échéances 2026/2027 : activez votre PA Pennylane sans surcoût, directement depuis zLawyer</mj-preview>
+    <mj-title
+      >Activez votre Plateforme Agréée Pennylane dès maintenant depuis zLawyer</mj-title
+    >
+    <mj-preview
+      >Échéances 2026/2027 : activez votre PA Pennylane sans surcoût,
+      directement depuis zLawyer</mj-preview
+    >
 
     <mj-style>
       .outlook-fix {
@@ -140,7 +145,7 @@
             >CONTACT</a
           >&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
           <a
-            href="#"
+            href="https://www.zlawyer.fr/logiciel-avocats/newsletters/"
             style="
               color: #ed630f;
               text-decoration: none;
@@ -162,7 +167,7 @@
           font-weight="600"
           color="#222E3E"
           align="center"
-          >Activez votre Plateforme Agréée Pennylane dès maintenant</mj-text
+          >Activez votre Plateforme Agréée Pennylane dès maintenant depuis zLawyer</mj-text
         >
         <mj-text padding="0 0 16px" color="#5E6A7B">Cher client,</mj-text>
         <mj-text padding="0 0 16px" color="#5E6A7B">
@@ -201,7 +206,15 @@
           line-height="1.5"
           font-weight="600"
           color="#222E3E"
-          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Pourquoi activer votre Plateforme Agréée dès aujourd'hui&nbsp;?</div></mj-text
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Pourquoi activer votre Plateforme Agréée dès aujourd'hui&nbsp;?
+          </div></mj-text
         >
 
         <mj-text padding="0 0 8px">
@@ -209,10 +222,24 @@
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            width="504"
+            style="
+              border-collapse: collapse;
+              width: 504px;
+              table-layout: fixed;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+            "
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td
+                width="28"
+                style="
+                  padding: 0 8px 0 0;
+                  vertical-align: top;
+                  width: 28px;
+                "
+              >
                 <table
                   border="0"
                   cellpadding="0"
@@ -247,7 +274,15 @@
                   </tr>
                 </table>
               </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+              <td
+                width="476"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  width: 476px;
+                "
+              >
                 <strong>Prenez de l'avance sur la réforme&nbsp;:</strong> évitez
                 les démarches de dernière minute et sécurisez dès aujourd'hui
                 une étape clé de votre mise en conformité.
@@ -261,10 +296,24 @@
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            width="504"
+            style="
+              border-collapse: collapse;
+              width: 504px;
+              table-layout: fixed;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+            "
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td
+                width="28"
+                style="
+                  padding: 0 8px 0 0;
+                  vertical-align: top;
+                  width: 28px;
+                "
+              >
                 <table
                   border="0"
                   cellpadding="0"
@@ -299,7 +348,15 @@
                   </tr>
                 </table>
               </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+              <td
+                width="476"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  width: 476px;
+                "
+              >
                 <strong>Simplifiez les prochaines étapes&nbsp;:</strong> votre
                 Plateforme Agréée sera déjà déclarée lorsque les futurs services
                 de facturation électronique seront progressivement déployés dans
@@ -314,10 +371,24 @@
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            width="504"
+            style="
+              border-collapse: collapse;
+              width: 504px;
+              table-layout: fixed;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+            "
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td
+                width="28"
+                style="
+                  padding: 0 8px 0 0;
+                  vertical-align: top;
+                  width: 28px;
+                "
+              >
                 <table
                   border="0"
                   cellpadding="0"
@@ -352,11 +423,21 @@
                   </tr>
                 </table>
               </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                <strong>Centralisez votre organisation avec zLawyer&nbsp;:</strong>
+              <td
+                width="476"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  width: 476px;
+                "
+              >
+                <strong
+                  >Centralisez votre organisation avec zLawyer&nbsp;:</strong
+                >
                 en déclarant votre Plateforme Agréée dès aujourd'hui, vous
-                préparez la centralisation de vos futurs échanges de factures
-                au sein de votre environnement habituel.
+                préparez la centralisation de vos futurs échanges de factures au
+                sein de votre environnement habituel.
               </td>
             </tr>
           </table>
@@ -367,10 +448,24 @@
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            width="504"
+            style="
+              border-collapse: collapse;
+              width: 504px;
+              table-layout: fixed;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+            "
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td
+                width="28"
+                style="
+                  padding: 0 8px 0 0;
+                  vertical-align: top;
+                  width: 28px;
+                "
+              >
                 <table
                   border="0"
                   cellpadding="0"
@@ -405,62 +500,18 @@
                   </tr>
                 </table>
               </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+              <td
+                width="476"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  width: 476px;
+                "
+              >
                 <strong>Aucun coût supplémentaire&nbsp;:</strong> l'accès à la
                 Plateforme Agréée Pennylane est inclus dans votre abonnement
                 actuel.
-              </td>
-            </tr>
-          </table>
-        </mj-text>
-
-        <mj-text padding="0 0 16px">
-          <table
-            border="0"
-            cellpadding="0"
-            cellspacing="0"
-            style="border-collapse: collapse"
-          >
-            <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
-                <table
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                  style="
-                    border-collapse: collapse;
-                    background-color: #fff0e6;
-                    border-radius: 999px;
-                  "
-                  bgcolor="#fff0e6"
-                >
-                  <tr>
-                    <td
-                      style="
-                        width: 20px;
-                        height: 20px;
-                        padding: 0;
-                        font-size: 12px;
-                        font-weight: 600;
-                        color: #ed630f;
-                        font-family: 'Segoe UI', sans-serif;
-                        border-radius: 999px;
-                        line-height: 20px;
-                        text-align: center;
-                      "
-                      bgcolor="#fff0e6"
-                      width="20"
-                      height="20"
-                    >
-                      <span style="color: #ed630f">✓</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
-                <strong>Un accompagnement dédié&nbsp;:</strong> nos équipes vous
-                accompagnent dans l'activation de votre Plateforme Agréée et
-                dans chaque étape de votre transition.
               </td>
             </tr>
           </table>
@@ -495,7 +546,15 @@
           line-height="1.5"
           font-weight="600"
           color="#222E3E"
-          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Comment activer votre Plateforme Agréée&nbsp;?</div></mj-text
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Comment activer votre Plateforme Agréée&nbsp;?
+          </div></mj-text
         >
 
         <mj-text padding="0 0 12px">
@@ -503,10 +562,24 @@
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            width="504"
+            style="
+              border-collapse: collapse;
+              width: 504px;
+              table-layout: fixed;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+            "
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td
+                width="28"
+                style="
+                  padding: 0 8px 0 0;
+                  vertical-align: top;
+                  width: 28px;
+                "
+              >
                 <table
                   border="0"
                   cellpadding="0"
@@ -541,7 +614,15 @@
                   </tr>
                 </table>
               </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+              <td
+                width="476"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  width: 476px;
+                "
+              >
                 <strong>Connectez-vous à votre compte zLawyer</strong><br />
                 Accédez à votre plateforme avec vos identifiants habituels.
               </td>
@@ -554,10 +635,24 @@
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            width="504"
+            style="
+              border-collapse: collapse;
+              width: 504px;
+              table-layout: fixed;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+            "
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td
+                width="28"
+                style="
+                  padding: 0 8px 0 0;
+                  vertical-align: top;
+                  width: 28px;
+                "
+              >
                 <table
                   border="0"
                   cellpadding="0"
@@ -592,7 +687,15 @@
                   </tr>
                 </table>
               </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+              <td
+                width="476"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  width: 476px;
+                "
+              >
                 <strong>Signez le mandat</strong><br />
                 Depuis le menu « Facturation électronique », suivez les étapes
                 et signez le mandat permettant de désigner zLawyer comme votre
@@ -608,10 +711,24 @@
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            width="504"
+            style="
+              border-collapse: collapse;
+              width: 504px;
+              table-layout: fixed;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+            "
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td
+                width="28"
+                style="
+                  padding: 0 8px 0 0;
+                  vertical-align: top;
+                  width: 28px;
+                "
+              >
                 <table
                   border="0"
                   cellpadding="0"
@@ -646,7 +763,15 @@
                   </tr>
                 </table>
               </td>
-              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+              <td
+                width="476"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  width: 476px;
+                "
+              >
                 <strong>Votre déclaration est enregistrée</strong><br />
                 Cette activation constitue le point de départ de votre
                 transition vers la facturation électronique. En réalisant cette
@@ -675,9 +800,11 @@
     <mj-section padding="24px">
       <mj-column padding="0 24px">
         <mj-text padding="0 0 24px" color="#5E6A7B">
-          <strong>N'attendez pas les dernières échéances&nbsp;: préparez dès
-          aujourd'hui votre transition vers la facturation électronique avec
-          zLawyer.</strong>
+          <strong
+            >N'attendez pas les dernières échéances&nbsp;: préparez dès
+            aujourd'hui votre transition vers la facturation électronique avec
+            zLawyer.</strong
+          >
         </mj-text>
         <mj-text padding="0 0 0" color="#5E6A7B">
           Bien cordialement,<br />

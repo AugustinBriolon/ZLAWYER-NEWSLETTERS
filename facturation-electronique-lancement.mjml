@@ -146,7 +146,7 @@
             >CONTACT</a
           >&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
           <a
-            href="#"
+            href="https://www.zlawyer.fr/logiciel-avocats/newsletters/"
             style="
               color: #ed630f;
               text-decoration: none;
@@ -209,7 +209,15 @@
           line-height="1.5"
           font-weight="600"
           color="#222E3E"
-          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Comment activer votre Plateforme Agréée&nbsp;?</div></mj-text
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Comment activer votre Plateforme Agréée&nbsp;?
+          </div></mj-text
         >
         <mj-text padding="0 0 16px" color="#5E6A7B">
           L'activation est simple et rapide, directement depuis
@@ -375,9 +383,27 @@
         </mj-text>
 
         <mj-text padding="0 0 16px">
-          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; background-color: #F8F9FB; border-left: 3px solid #ED630F;">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            style="
+              border-collapse: collapse;
+              background-color: #f8f9fb;
+              border-left: 3px solid #ed630f;
+            "
+          >
             <tr>
-              <td style="padding: 12px 16px; color: #5e6a7b; font-size: 15px; line-height: 1.6; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+              <td
+                style="
+                  padding: 12px 16px;
+                  color: #5e6a7b;
+                  font-size: 15px;
+                  line-height: 1.6;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                "
+              >
                 ⏱&nbsp; Temps estimé : <strong>5 minutes</strong>
               </td>
             </tr>
@@ -387,7 +413,9 @@
         <mj-text padding="0 0 16px" color="#5E6A7B">
           Découvrez comment faire en vidéo&nbsp;:
         </mj-text>
-        <mj-button href="#" align="left">Voir la vidéo de démonstration</mj-button>
+        <mj-button href="#" align="left"
+          >Voir la vidéo de démonstration</mj-button
+        >
       </mj-column>
     </mj-section>
 
@@ -411,7 +439,15 @@
           line-height="1.5"
           font-weight="600"
           color="#222E3E"
-          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Vos avantages immédiats</div></mj-text
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Vos avantages immédiats
+          </div></mj-text
         >
         <mj-text padding="0 0 16px" color="#5E6A7B">
           En activant Pennylane dès aujourd'hui, vous bénéficiez de&nbsp;:
@@ -694,9 +730,21 @@
           line-height="1.5"
           font-weight="600"
           color="#222E3E"
-          ><div style="border-left: 3px solid #ED630F; padding-left: 10px; margin: 0;">Besoin d'aide&nbsp;?</div></mj-text
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Besoin d'aide&nbsp;?
+          </div></mj-text
         >
-        <mj-button href="https://www.zlawyer.fr/logiciel-avocats/contact/" align="left">Contactez-nous</mj-button>
+        <mj-button
+          href="https://www.zlawyer.fr/logiciel-avocats/contact/"
+          align="left"
+          >Contactez-nous</mj-button
+        >
       </mj-column>
     </mj-section>
 
