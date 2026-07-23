@@ -1,0 +1,562 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all
+        font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        color="#394454"
+      />
+      <mj-text font-size="16px" line-height="1.6" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-button
+        background-color="#ED630F"
+        color="#ffffff"
+        border-radius="999px"
+        font-weight="600"
+        inner-padding="12px 24px"
+      />
+    </mj-attributes>
+
+    <mj-title>Partenariat zLawyer &amp; Metabole</mj-title>
+    <mj-preview
+      >zLawyer s'associe à Metabole : 6 mois de SEO et 2 mois d'abonnement offerts</mj-preview
+    >
+
+    <mj-style>
+      .outlook-fix {
+        mso-line-height-rule: exactly;
+      } /* Force les couleurs pour Outlook PC */
+      [data-ogsc] {
+        color: inherit !important;
+      }
+      [data-ogsb] {
+        background-color: inherit !important;
+      } /* Empêche les changements de couleur des liens
+      au survol */
+      a {
+        text-decoration: none !important;
+      }
+      a:link {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      a:visited {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      a:hover {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      a:active {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      /* Liens explicitement soulignés (les règles ci-dessus utilisent none !important) */
+      a.zl-link-underline,
+      a.zl-link-underline:link,
+      a.zl-link-underline:visited,
+      a.zl-link-underline:hover,
+      a.zl-link-underline:active {
+        text-decoration: underline !important;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <!-- Header -->
+    <mj-section padding="20px 20px 0 20px">
+      <mj-column width="35%" vertical-align="middle">
+        <mj-table>
+          <tr>
+            <td
+              style="
+                vertical-align: middle;
+                padding: 0;
+                height: 40px;
+                line-height: 40px;
+                mso-line-height-rule: exactly;
+                font-size: 0;
+                overflow: visible;
+              "
+              height="40"
+            >
+              <table
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="border-collapse: collapse"
+              >
+                <tr>
+                  <td style="height: 40px; width: 32px; padding: 0">
+                    <img
+                      src="https://www.zlawyer.fr/logiciel-avocats/images/logos/zeleLogo.png"
+                      alt="zLawyer"
+                      width="32"
+                      height="40"
+                      style="
+                        display: block;
+                        border: 0;
+                        outline: none;
+                        text-decoration: none;
+                        height: 40px;
+                        width: 32px;
+                      "
+                    />
+                  </td>
+                </tr>
+              </table>
+            </td>
+            <td style="vertical-align: middle; padding-left: 8px">
+              <span
+                style="
+                  font-size: 20px;
+                  font-weight: 500;
+                  color: #222e3e;
+                  line-height: 1.2;
+                "
+                >zLawyer</span
+              >
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="65%" padding-top="5px" vertical-align="middle">
+        <mj-text align="right" font-size="11px" line-height="1.5">
+          <a
+            href="https://www.zlawyer.fr/logiciel-avocats/"
+            style="
+              color: #394454;
+              text-decoration: none;
+              mso-color-alt: #394454;
+            "
+            >ACCUEIL</a
+          >&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+          <a
+            href="https://www.zlawyer.fr/logiciel-avocats/contact/"
+            style="
+              color: #394454;
+              text-decoration: none;
+              mso-color-alt: #394454;
+            "
+            >CONTACT</a
+          >&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+          <a
+            href="https://www.zlawyer.fr/logiciel-avocats/newsletters/"
+            style="
+              color: #ed630f;
+              text-decoration: none;
+              mso-color-alt: #ed630f;
+            "
+            >NEWSLETTER</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero : titre + image -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text
+          padding="0 0 24px"
+          font-size="22px"
+          line-height="1.35"
+          font-weight="600"
+          color="#222E3E"
+          align="center"
+          >Partenariat zLawyer &amp; Metabole</mj-text
+        >
+        <!-- Remplacer l'URL par celle hébergée (Mailjet / CDN) avant envoi -->
+        <mj-image
+          src="zlawyer-metabole.jpg"
+          alt="ZLawyer et Metabole s'associent"
+          padding="0"
+          width="552px"
+          align="center"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : Chaque heure... -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text
+          padding="0 0 16px"
+          font-size="17px"
+          line-height="1.5"
+          font-weight="600"
+          color="#222E3E"
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Chaque heure consacrée à un dossier a de la valeur.
+          </div></mj-text
+        >
+
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Aujourd'hui, la visibilité d'un cabinet en a tout autant.<br />
+          Avant même un <strong>premier échange</strong>, de nombreux clients
+          découvrent un cabinet en ligne, consultent son site internet et se
+          forgent une <strong>première impression</strong>.
+        </mj-text>
+
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Au-delà d'une simple vitrine, le site web est devenu un véritable
+          levier de <strong>crédibilité</strong> et de
+          <strong>développement</strong>.
+        </mj-text>
+
+        <mj-text padding="0 0 0" color="#5E6A7B">
+          C'est dans cette logique que
+          <strong>ZLawyer s'associe à Metabole</strong>, studio spécialisé dans
+          la création d'identités visuelles et de sites web pour les avocats
+          exigeants.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider
+          border-color="#CBD5E1"
+          border-width="1px"
+          padding="12px 0"
+          width="60%"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : Le partenariat -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text
+          padding="0 0 16px"
+          font-size="17px"
+          line-height="1.5"
+          font-weight="600"
+          color="#222E3E"
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Le partenariat
+          </div></mj-text
+        >
+
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Dans le cadre de notre partenariat, nous sommes heureux de proposer à
+          nos clients une offre exclusive*&nbsp;:
+        </mj-text>
+
+        <mj-text padding="0 0 8px">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            style="border-collapse: collapse"
+          >
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="
+                    border-collapse: collapse;
+                    background-color: #fff0e6;
+                    border-radius: 999px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        color: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        line-height: 20px;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+                6 mois d'accompagnement SEO offerts
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 0">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            style="border-collapse: collapse"
+          >
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="
+                    border-collapse: collapse;
+                    background-color: #fff0e6;
+                    border-radius: 999px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        color: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        line-height: 20px;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+                2 mois d'abonnement zLawyer offerts
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider
+          border-color="#CBD5E1"
+          border-width="1px"
+          padding="12px 0"
+          width="60%"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : L'objectif -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text
+          padding="0 0 16px"
+          font-size="17px"
+          line-height="1.5"
+          font-weight="600"
+          color="#222E3E"
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            L'objectif
+          </div></mj-text
+        >
+
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Vous permettre de moderniser votre présence digitale tout en
+          améliorant durablement votre visibilité sur les moteurs de recherche.
+        </mj-text>
+
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Si ce sujet fait partie de vos réflexions pour les prochains mois,
+          c'est le moment idéal pour en profiter.
+        </mj-text>
+
+        <mj-button
+          href="https://metabole.studio/fr/contact"
+          align="left"
+          color="#ffffff"
+          >Contacter Metabole</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider
+          border-color="#CBD5E1"
+          border-width="1px"
+          padding="12px 0"
+          width="60%"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Section : Metabole Studio -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text
+          padding="0 0 16px"
+          font-size="17px"
+          line-height="1.5"
+          font-weight="600"
+          color="#222E3E"
+          ><div
+            style="
+              border-left: 3px solid #ed630f;
+              padding-left: 10px;
+              margin: 0;
+            "
+          >
+            Metabole Studio
+          </div></mj-text
+        >
+
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Vous voulez en savoir plus sur Metabole&nbsp;?
+        </mj-text>
+
+        <mj-text padding="0 0 8px" color="#5E6A7B">
+          Voici le
+          <a
+            class="zl-link-underline"
+            href="https://metabole.studio/fr"
+            style="
+              color: #5e6a7b;
+              text-decoration: underline;
+              mso-color-alt: #5e6a7b;
+            "
+            >site web de Metabole</a
+          >.
+        </mj-text>
+
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Envoyez un message&nbsp;:
+          <a
+            class="zl-link-underline"
+            href="mailto:contact@metabole.studio"
+            style="
+              color: #5e6a7b;
+              text-decoration: underline;
+              mso-color-alt: #5e6a7b;
+            "
+            >contact@metabole.studio</a
+          >
+        </mj-text>
+
+        <mj-text padding="0 0 16px" color="#5E6A7B">
+          Ou prenez rendez-vous&nbsp;:
+        </mj-text>
+
+        <mj-button
+          href="https://cal.com/metabole-matteo/intro"
+          align="left"
+          color="#ffffff"
+          >Prendre rendez-vous</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- Mentions légales offre -->
+    <mj-section padding="8px 24px 24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0" font-size="12px" line-height="1.5" color="#94A3B8">
+          *Offre réservée aux clients ZLawyer souscrivant à une prestation
+          comprenant la création ou la refonte d'identité visuelle et du site
+          web auprès de Metabole Studio, incluant un accompagnement SEO (sur le
+          blog du nouveau site web).<br />
+          Les 6 mois d'accompagnement SEO sont offerts par Metabole Studio. Les
+          2 mois d'abonnement ZLawyer sont offerts par ZLawyer.<br />
+          Offre valable jusqu'au 30 septembre 2026.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px">
+      <mj-column padding="0">
+        <mj-divider
+          border-color="#CBD5E1"
+          border-width="1px"
+          padding="12px 0"
+          width="60%"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Signature -->
+    <mj-section padding="24px">
+      <mj-column padding="0 24px">
+        <mj-text padding="0 0 0" color="#5E6A7B">
+          Bien cordialement,<br />
+          <strong>L'équipe zLawyer</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="24px">
+      <mj-column padding="0">
+        <mj-text align="center" padding="8px 0" font-size="12px" color="#5E6A7B"
+          >© zLawyer — Tous droits réservés</mj-text
+        >
+        <mj-text align="center" padding="0" font-size="12px" color="#5E6A7B">
+          <a
+            style="
+              color: #5e6a7b;
+              text-decoration: none;
+              mso-color-alt: #5e6a7b;
+            "
+            href="https://www.zlawyer.fr/logiciel-avocats/politques-de-confidentialite/"
+            >Confidentialité</a
+          >
+          •
+          <a
+            style="
+              color: #5e6a7b;
+              text-decoration: none;
+              mso-color-alt: #5e6a7b;
+            "
+            href="https://www.zlawyer.fr/logiciel-avocats/politique-de-cookies/"
+            >Cookies</a
+          >
+          •
+          <a
+            style="
+              color: #5e6a7b;
+              text-decoration: none;
+              mso-color-alt: #5e6a7b;
+            "
+            href="[[UNSUB_LINK_FR_FR]]"
+            >Se désabonner</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
