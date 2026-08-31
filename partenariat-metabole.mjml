@@ -5,21 +5,29 @@
         font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
         color="#394454"
       />
-      <mj-text font-size="16px" line-height="1.6" />
-      <mj-section padding="0px" />
-      <mj-column padding="0px" />
+      <mj-text font-size="16px" line-height="1.55" padding="0" />
+      <mj-section padding="0" />
+      <mj-column padding="0" />
       <mj-button
         background-color="#ED630F"
         color="#ffffff"
         border-radius="999px"
         font-weight="600"
         inner-padding="12px 24px"
+        padding="0"
       />
+      <mj-divider
+        border-color="#CBD5E1"
+        border-width="1px"
+        padding="0"
+        width="60%"
+      />
+      <mj-image padding="0" />
     </mj-attributes>
 
-    <mj-title>Partenariat zLawyer &amp; Metabole</mj-title>
+    <mj-title>2 mois de zLawyer + 6 mois de SEO offert</mj-title>
     <mj-preview
-      >zLawyer s'associe à Metabole : 6 mois de SEO et 2 mois d'abonnement offerts</mj-preview
+      >L'été est le meilleur moment pour moderniser votre cabinet avec Metabole</mj-preview
     >
 
     <mj-style>
@@ -63,9 +71,9 @@
     </mj-style>
   </mj-head>
 
-  <mj-body background-color="#ffffff">
+  <mj-body background-color="#ffffff" width="600px">
     <!-- Header -->
-    <mj-section padding="20px 20px 0 20px">
+    <mj-section padding="32px 24px 0">
       <mj-column width="35%" vertical-align="middle">
         <mj-table>
           <tr>
@@ -155,35 +163,34 @@
     </mj-section>
 
     <!-- Hero : titre + image -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
+    <mj-section padding="56px 24px 24px">
+      <mj-column>
         <mj-text
-          padding="0 0 24px"
+          padding="0 0 40px"
           font-size="22px"
           line-height="1.35"
           font-weight="600"
           color="#222E3E"
           align="center"
-          >Partenariat zLawyer &amp; Metabole</mj-text
+          ><strong>2 mois de zLawyer</strong> +
+          <strong>6 mois de SEO</strong> offert</mj-text
         >
-        <!-- Remplacer l'URL par celle hébergée (Mailjet / CDN) avant envoi -->
         <mj-image
-          src="zlawyer-metabole.jpg"
+          src="https://x3h44.mjt.lu/img2/x3h44/22f6f7cf-e468-4fc1-bed3-24ed3e1def47/content"
           alt="ZLawyer et Metabole s'associent"
-          padding="0"
           width="552px"
           align="center"
         />
       </mj-column>
     </mj-section>
 
-    <!-- Section : Chaque heure... -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
+    <!-- Section : L'été... -->
+    <mj-section padding="28px 24px">
+      <mj-column>
         <mj-text
-          padding="0 0 16px"
+          padding="0 0 26px"
           font-size="17px"
-          line-height="1.5"
+          line-height="1.4"
           font-weight="600"
           color="#222E3E"
           ><div
@@ -193,50 +200,48 @@
               margin: 0;
             "
           >
-            Chaque heure consacrée à un dossier a de la valeur.
+            L'été est le meilleur moment pour travailler sur son cabinet.
           </div></mj-text
         >
 
-        <mj-text padding="0 0 16px" color="#5E6A7B">
-          Aujourd'hui, la visibilité d'un cabinet en a tout autant.<br />
-          Avant même un <strong>premier échange</strong>, de nombreux clients
-          découvrent un cabinet en ligne, consultent son site internet et se
-          forgent une <strong>première impression</strong>.
+        <mj-text padding="0 0 20px" color="#5E6A7B">
+          La rentrée est souvent synonyme d'une activité plus intense.
         </mj-text>
 
-        <mj-text padding="0 0 16px" color="#5E6A7B">
-          Au-delà d'une simple vitrine, le site web est devenu un véritable
-          levier de <strong>crédibilité</strong> et de
-          <strong>développement</strong>.
+        <mj-text padding="0 0 20px" color="#5E6A7B">
+          L'été offre une période plus calme pour moderniser son image et
+          préparer sa présence en ligne avant la reprise.
         </mj-text>
 
-        <mj-text padding="0 0 0" color="#5E6A7B">
+        <mj-text padding="0 0 32px" color="#5E6A7B">
           C'est dans cette logique que
           <strong>ZLawyer s'associe à Metabole</strong>, studio spécialisé dans
-          la création d'identités visuelles et de sites web pour les avocats
-          exigeants.
+          la création d'identités visuelles et de sites web pour les cabinets
+          d'avocats.
         </mj-text>
+
+        <mj-button
+          href="https://metabole.studio/fr/projects"
+          align="left"
+          color="#ffffff"
+          >Découvrir les réalisations de Metabole</mj-button
+        >
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0 24px">
-      <mj-column padding="0">
-        <mj-divider
-          border-color="#CBD5E1"
-          border-width="1px"
-          padding="12px 0"
-          width="60%"
-        />
+    <mj-section padding="16px 24px">
+      <mj-column>
+        <mj-divider />
       </mj-column>
     </mj-section>
 
     <!-- Section : Le partenariat -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
+    <mj-section padding="28px 24px">
+      <mj-column>
         <mj-text
-          padding="0 0 16px"
+          padding="0 0 26px"
           font-size="17px"
-          line-height="1.5"
+          line-height="1.4"
           font-weight="600"
           color="#222E3E"
           ><div
@@ -250,28 +255,33 @@
           </div></mj-text
         >
 
-        <mj-text padding="0 0 16px" color="#5E6A7B">
+        <mj-text padding="0 0 20px" color="#5E6A7B">
           Dans le cadre de notre partenariat, nous sommes heureux de proposer à
           nos clients une offre exclusive*&nbsp;:
         </mj-text>
 
-        <mj-text padding="0 0 8px">
+        <mj-text padding="0 0 14px">
           <table
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto"
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td style="padding: 0 8px 0 0; vertical-align: top; width: 20px">
                 <table
                   border="0"
                   cellpadding="0"
                   cellspacing="0"
                   style="
                     border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
                     background-color: #fff0e6;
                     border-radius: 999px;
+                    -webkit-border-radius: 999px;
+                    -moz-border-radius: 999px;
+                    width: 20px;
                   "
                   bgcolor="#fff0e6"
                 >
@@ -283,10 +293,17 @@
                         padding: 0;
                         font-size: 12px;
                         font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
                         color: #ed630f;
+                        mso-color-alt: #ed630f;
                         font-family: 'Segoe UI', sans-serif;
                         border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
                         line-height: 20px;
+                        mso-line-height-rule: exactly;
                         text-align: center;
                       "
                       bgcolor="#fff0e6"
@@ -305,23 +322,28 @@
           </table>
         </mj-text>
 
-        <mj-text padding="0 0 0">
+        <mj-text padding="0">
           <table
             border="0"
             cellpadding="0"
             cellspacing="0"
-            style="border-collapse: collapse"
+            style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto"
           >
             <tr>
-              <td style="padding: 0 8px 0 0; vertical-align: top">
+              <td style="padding: 0 8px 0 0; vertical-align: top; width: 20px">
                 <table
                   border="0"
                   cellpadding="0"
                   cellspacing="0"
                   style="
                     border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
                     background-color: #fff0e6;
                     border-radius: 999px;
+                    -webkit-border-radius: 999px;
+                    -moz-border-radius: 999px;
+                    width: 20px;
                   "
                   bgcolor="#fff0e6"
                 >
@@ -333,10 +355,17 @@
                         padding: 0;
                         font-size: 12px;
                         font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
                         color: #ed630f;
+                        mso-color-alt: #ed630f;
                         font-family: 'Segoe UI', sans-serif;
                         border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
                         line-height: 20px;
+                        mso-line-height-rule: exactly;
                         text-align: center;
                       "
                       bgcolor="#fff0e6"
@@ -357,24 +386,19 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0 24px">
-      <mj-column padding="0">
-        <mj-divider
-          border-color="#CBD5E1"
-          border-width="1px"
-          padding="12px 0"
-          width="60%"
-        />
+    <mj-section padding="16px 24px">
+      <mj-column>
+        <mj-divider />
       </mj-column>
     </mj-section>
 
-    <!-- Section : L'objectif -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
+    <!-- Section : Un projet pensé pour vous faire gagner du temps -->
+    <mj-section padding="28px 24px">
+      <mj-column>
         <mj-text
-          padding="0 0 16px"
+          padding="0 0 26px"
           font-size="17px"
-          line-height="1.5"
+          line-height="1.4"
           font-weight="600"
           color="#222E3E"
           ><div
@@ -384,18 +408,195 @@
               margin: 0;
             "
           >
-            L'objectif
+            Un projet pensé pour vous faire gagner du temps
           </div></mj-text
         >
 
-        <mj-text padding="0 0 16px" color="#5E6A7B">
-          Vous permettre de moderniser votre présence digitale tout en
-          améliorant durablement votre visibilité sur les moteurs de recherche.
+        <mj-text padding="0 0 8px">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto"
+          >
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top; width: 20px">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    border-radius: 999px;
+                    -webkit-border-radius: 999px;
+                    -moz-border-radius: 999px;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+                Un processus simple et cadré
+              </td>
+            </tr>
+          </table>
         </mj-text>
 
-        <mj-text padding="0 0 16px" color="#5E6A7B">
-          Si ce sujet fait partie de vos réflexions pour les prochains mois,
-          c'est le moment idéal pour en profiter.
+        <mj-text padding="0 0 14px">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto"
+          >
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top; width: 20px">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    border-radius: 999px;
+                    -webkit-border-radius: 999px;
+                    -moz-border-radius: 999px;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+                Des échanges limités pour un minimum de temps de votre côté
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 32px">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto"
+          >
+            <tr>
+              <td style="padding: 0 8px 0 0; vertical-align: top; width: 20px">
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    border-radius: 999px;
+                    -webkit-border-radius: 999px;
+                    -moz-border-radius: 999px;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        border-radius: 999px;
+                        -webkit-border-radius: 999px;
+                        -moz-border-radius: 999px;
+                        border: none;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                      bgcolor="#fff0e6"
+                      width="20"
+                      height="20"
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td style="padding: 0; vertical-align: top; color: #5e6a7b">
+                Nous gérons la conception, le design, le développement et la
+                mise en ligne
+              </td>
+            </tr>
+          </table>
         </mj-text>
 
         <mj-button
@@ -407,24 +608,19 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0 24px">
-      <mj-column padding="0">
-        <mj-divider
-          border-color="#CBD5E1"
-          border-width="1px"
-          padding="12px 0"
-          width="60%"
-        />
+    <mj-section padding="16px 24px">
+      <mj-column>
+        <mj-divider />
       </mj-column>
     </mj-section>
 
     <!-- Section : Metabole Studio -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
+    <mj-section padding="28px 24px 16px">
+      <mj-column>
         <mj-text
-          padding="0 0 16px"
+          padding="0 0 26px"
           font-size="17px"
-          line-height="1.5"
+          line-height="1.4"
           font-weight="600"
           color="#222E3E"
           ><div
@@ -438,11 +634,203 @@
           </div></mj-text
         >
 
-        <mj-text padding="0 0 16px" color="#5E6A7B">
+        <mj-raw>
+          <!--[if mso]>
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+            <tr>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">À L'ÉCOUTE</td>
+              <td style="width: 6px; font-size: 0; line-height: 0;">&nbsp;</td>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">PROFESSIONNEL</td>
+              <td style="width: 6px; font-size: 0; line-height: 0;">&nbsp;</td>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">RÉACTIF</td>
+              <td style="width: 6px; font-size: 0; line-height: 0;">&nbsp;</td>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">CRÉATIF</td>
+              <td style="width: 6px; font-size: 0; line-height: 0;">&nbsp;</td>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">ACCOMPAGNEMENT</td>
+            </tr>
+          </table>
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+            <tr><td style="height: 6px; font-size: 0; line-height: 0;">&nbsp;</td></tr>
+          </table>
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+            <tr>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">DÉPASSE LES ATTENTES</td>
+              <td style="width: 6px; font-size: 0; line-height: 0;">&nbsp;</td>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">CONSEILS PERTINENTS</td>
+              <td style="width: 6px; font-size: 0; line-height: 0;">&nbsp;</td>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">COMPRÉHENSION DES BESOINS</td>
+            </tr>
+          </table>
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+            <tr><td style="height: 6px; font-size: 0; line-height: 0;">&nbsp;</td></tr>
+          </table>
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+            <tr>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">DISPONIBLE</td>
+              <td style="width: 6px; font-size: 0; line-height: 0;">&nbsp;</td>
+              <td style="padding: 5px 12px; font-size: 11px; font-weight: 600; color: #5e6a7b; mso-color-alt: #5e6a7b; background-color: #fff0e6; mso-background-color-alt: #fff0e6; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.02em; white-space: nowrap;" bgcolor="#fff0e6">EXPERTISE</td>
+            </tr>
+          </table>
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: auto;">
+            <tr><td style="height: 36px; line-height: 36px; font-size: 0;">&nbsp;</td></tr>
+          </table>
+          <![endif]-->
+        </mj-raw>
+
+        <mj-raw><!--[if !mso]><!--></mj-raw>
+        <mj-text padding="0 0 36px" line-height="2">
+          <span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >À L'ÉCOUTE</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >PROFESSIONNEL</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >RÉACTIF</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >CRÉATIF</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >ACCOMPAGNEMENT</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >DÉPASSE LES ATTENTES</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >CONSEILS PERTINENTS</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >COMPRÉHENSION DES BESOINS</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >DISPONIBLE</span
+          ><span
+            style="
+              display: inline-block;
+              background-color: #fff0e6;
+              border-radius: 999px;
+              padding: 3px 10px;
+              margin: 0 4px 4px 0;
+              font-size: 11px;
+              font-weight: 600;
+              color: #5e6a7b;
+              letter-spacing: 0.02em;
+            "
+            >EXPERTISE</span
+          >
+        </mj-text>
+        <mj-raw><!--<![endif]--></mj-raw>
+
+        <mj-text padding="0 0 32px" color="#5E6A7B">
+          <a
+            class="zl-link-underline"
+            href="https://www.google.com/maps?cid=4308694959446986707"
+            style="
+              color: #5e6a7b;
+              text-decoration: underline;
+              mso-color-alt: #5e6a7b;
+            "
+            >Lire les avis clients.</a
+          >
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B">
           Vous voulez en savoir plus sur Metabole&nbsp;?
         </mj-text>
 
-        <mj-text padding="0 0 8px" color="#5E6A7B">
+        <mj-text padding="0 0 20px" color="#5E6A7B">
           Voici le
           <a
             class="zl-link-underline"
@@ -456,7 +844,7 @@
           >.
         </mj-text>
 
-        <mj-text padding="0 0 16px" color="#5E6A7B">
+        <mj-text padding="0 0 20px" color="#5E6A7B">
           Envoyez un message&nbsp;:
           <a
             class="zl-link-underline"
@@ -470,7 +858,7 @@
           >
         </mj-text>
 
-        <mj-text padding="0 0 16px" color="#5E6A7B">
+        <mj-text padding="0 0 32px" color="#5E6A7B">
           Ou prenez rendez-vous&nbsp;:
         </mj-text>
 
@@ -483,9 +871,15 @@
       </mj-column>
     </mj-section>
 
+    <mj-section padding="16px 24px">
+      <mj-column>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
     <!-- Mentions légales offre -->
-    <mj-section padding="8px 24px 24px">
-      <mj-column padding="0 24px">
+    <mj-section padding="24px 24px 12px">
+      <mj-column>
         <mj-text padding="0" font-size="12px" line-height="1.5" color="#94A3B8">
           *Offre réservée aux clients ZLawyer souscrivant à une prestation
           comprenant la création ou la refonte d'identité visuelle et du site
@@ -493,36 +887,33 @@
           blog du nouveau site web).<br />
           Les 6 mois d'accompagnement SEO sont offerts par Metabole Studio. Les
           2 mois d'abonnement ZLawyer sont offerts par ZLawyer.<br />
-          Offre valable jusqu'au 30 septembre 2026.
+          Offre valable jusqu'au 31 octobre 2026.
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0 24px">
-      <mj-column padding="0">
-        <mj-divider
-          border-color="#CBD5E1"
-          border-width="1px"
-          padding="12px 0"
-          width="60%"
-        />
+    <mj-section padding="16px 24px">
+      <mj-column>
+        <mj-divider />
       </mj-column>
     </mj-section>
 
     <!-- Signature -->
-    <mj-section padding="24px">
-      <mj-column padding="0 24px">
-        <mj-text padding="0 0 0" color="#5E6A7B">
-          Bien cordialement,<br />
+    <mj-section padding="28px 24px">
+      <mj-column>
+        <mj-text padding="0 0 20px" color="#5E6A7B">
+          Bien cordialement,
+        </mj-text>
+        <mj-text padding="0" color="#5E6A7B">
           <strong>L'équipe zLawyer</strong>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- Footer -->
-    <mj-section padding="24px">
-      <mj-column padding="0">
-        <mj-text align="center" padding="8px 0" font-size="12px" color="#5E6A7B"
+    <mj-section padding="16px 24px 28px">
+      <mj-column>
+        <mj-text align="center" padding="0 0 8px" font-size="12px" color="#5E6A7B"
           >© zLawyer — Tous droits réservés</mj-text
         >
         <mj-text align="center" padding="0" font-size="12px" color="#5E6A7B">

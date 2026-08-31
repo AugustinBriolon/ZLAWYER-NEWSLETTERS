@@ -1,0 +1,1379 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all
+        font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        color="#394454"
+      />
+      <mj-text font-size="16px" line-height="1.55" padding="0" align="left" />
+      <mj-section padding="0" />
+      <mj-column padding="0" width="100%" />
+      <mj-button
+        background-color="#ED630F"
+        color="#ffffff"
+        border-radius="999px"
+        font-weight="600"
+        inner-padding="12px 24px"
+        padding="0"
+        font-size="14px"
+      />
+      <mj-divider
+        border-color="#CBD5E1"
+        border-width="1px"
+        padding="0"
+        width="60%"
+      />
+      <mj-image padding="0" />
+    </mj-attributes>
+
+    <mj-title
+      >Facturation électronique : préparez dès maintenant vos premiers
+      envois</mj-title
+    >
+    <mj-preview
+      >L'envoi de vos factures électroniques depuis zLawyer sera disponible
+      courant septembre. Vérifiez dès maintenant 3 points dans votre base
+      clients.</mj-preview
+    >
+
+    <mj-style>
+      .outlook-fix {
+        mso-line-height-rule: exactly;
+      }
+      [data-ogsc] {
+        color: inherit !important;
+      }
+      [data-ogsb] {
+        background-color: inherit !important;
+      }
+      a {
+        text-decoration: none !important;
+      }
+      a:link {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      a:visited {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      a:hover {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      a:active {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      a.zl-link-underline,
+      a.zl-link-underline:link,
+      a.zl-link-underline:visited,
+      a.zl-link-underline:hover,
+      a.zl-link-underline:active {
+        text-decoration: underline !important;
+      }
+      a.zl-btn {
+        display: block !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+        text-align: center !important;
+        text-decoration: none !important;
+      }
+      a.zl-btn-fill,
+      a.zl-btn-fill:link,
+      a.zl-btn-fill:visited,
+      a.zl-btn-fill:hover,
+      a.zl-btn-fill:active,
+      a.zl-btn-fill span {
+        color: #ffffff !important;
+        text-decoration: none !important;
+      }
+      a.zl-btn-outline,
+      a.zl-btn-outline:link,
+      a.zl-btn-outline:visited,
+      a.zl-btn-outline:hover,
+      a.zl-btn-outline:active,
+      a.zl-btn-outline span {
+        color: #ed630f !important;
+        text-decoration: none !important;
+      }
+      .zl-full {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+      .zl-full > table {
+        width: 100% !important;
+      }
+      @media only screen and (max-width: 480px) {
+        .zl-cta-col {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#ffffff" width="600px">
+    <!-- Header -->
+    <mj-section padding="32px 24px 0">
+      <mj-column width="35%" vertical-align="middle">
+        <mj-table>
+          <tr>
+            <td
+              style="
+                vertical-align: middle;
+                padding: 0;
+                height: 40px;
+                line-height: 40px;
+                mso-line-height-rule: exactly;
+                font-size: 0;
+                overflow: visible;
+              "
+              height="40"
+            >
+              <table
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="border-collapse: collapse"
+              >
+                <tr>
+                  <td style="height: 40px; width: 32px; padding: 0">
+                    <img
+                      src="https://www.zlawyer.fr/logiciel-avocats/images/logos/zeleLogo.png"
+                      alt="zLawyer"
+                      width="32"
+                      height="40"
+                      style="
+                        display: block;
+                        border: 0;
+                        outline: none;
+                        text-decoration: none;
+                        height: 40px;
+                        width: 32px;
+                      "
+                    />
+                  </td>
+                </tr>
+              </table>
+            </td>
+            <td style="vertical-align: middle; padding-left: 8px">
+              <span
+                style="
+                  font-size: 20px;
+                  font-weight: 500;
+                  color: #222e3e;
+                  line-height: 1.2;
+                "
+                >zLawyer</span
+              >
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="65%" padding-top="5px" vertical-align="middle">
+        <mj-text align="right" font-size="11px" line-height="1.5">
+          <a
+            href="https://www.zlawyer.fr/logiciel-avocats/"
+            style="
+              color: #394454;
+              text-decoration: none;
+              mso-color-alt: #394454;
+            "
+            >ACCUEIL</a
+          >&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+          <a
+            href="https://www.zlawyer.fr/logiciel-avocats/contact/"
+            style="
+              color: #394454;
+              text-decoration: none;
+              mso-color-alt: #394454;
+            "
+            >CONTACT</a
+          >&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+          <a
+            href="https://www.zlawyer.fr/logiciel-avocats/newsletters/"
+            style="
+              color: #ed630f;
+              text-decoration: none;
+              mso-color-alt: #ed630f;
+            "
+            >NEWSLETTER</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section padding="56px 24px 24px">
+      <mj-column width="100%">
+        <mj-text
+          padding="0"
+          font-size="22px"
+          line-height="1.35"
+          font-weight="600"
+          color="#222E3E"
+          align="center"
+          >Facturation électronique : préparez dès maintenant vos premiers
+          envois</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section padding="0 24px 28px">
+      <mj-column width="100%" css-class="zl-full">
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Chers utilisateurs zLawyer,
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          L'envoi de vos factures électroniques depuis zLawyer sera disponible
+          courant septembre.
+        </mj-text>
+
+        <mj-text padding="0" color="#5E6A7B" align="left">
+          Pour préparer vos premiers envois et éviter tout blocage au moment du
+          dépôt d'une facture, nous vous recommandons de vérifier dès maintenant
+          <strong>3 points essentiels</strong> dans votre base clients.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 24px">
+      <mj-column width="100%">
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- 1. SIREN / SIRET / TVA -->
+    <mj-section padding="28px 24px 8px">
+      <mj-column width="100%" css-class="zl-full">
+        <mj-text padding="0 0 26px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  border-left: 3px solid #ed630f;
+                  mso-border-left-alt: 3px solid #ed630f;
+                  padding: 0 0 0 10px;
+                  font-size: 17px;
+                  line-height: 1.4;
+                  font-weight: 600;
+                  color: #222e3e;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                1. Vérifiez les SIREN/SIRET et N° de TVA de vos clients
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Pour envoyer une facture électronique, votre client doit tout d'abord
+          être correctement identifié.
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Le SIREN/SIRET est une donnée essentielle : il permet d'identifier
+          précisément l'entreprise destinataire et d'interroger l'Annuaire
+          officiel de la facturation électronique afin de retrouver son adresse
+          de facturation.
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          zLawyer vous permet d'identifier facilement, depuis votre liste de
+          clients, les fiches pour lesquelles le SIREN/SIRET ou le N° de TVA
+          intracommunautaire n'est pas renseigné, afin de compléter votre base
+          avant vos premiers envois.
+        </mj-text>
+
+        <mj-text
+          padding="0 0 16px"
+          font-size="16px"
+          line-height="1.4"
+          font-weight="600"
+          color="#222E3E"
+          align="left"
+          >Comment vérifier et mettre à jour votre base clients&nbsp;?</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px 28px">
+      <mj-column
+        width="50%"
+        css-class="zl-cta-col"
+        padding="0 8px 8px 0"
+        vertical-align="middle"
+      >
+        <mj-raw>
+          <!--[if mso]>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="center">
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://help-web.zlawyer.fr/mise-a-jour-siren-n-de-tva-depuis-la-base-clients/" style="height:44px;v-text-anchor:middle;width:260px;" arcsize="50%" stroke="f" fillcolor="#ED630F">
+                  <w:anchorlock/>
+                  <center style="color:#ffffff;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Version WEB</center>
+                </v:roundrect>
+              </td>
+            </tr>
+          </table>
+          <![endif]-->
+        </mj-raw>
+        <mj-raw><!--[if !mso]><!--></mj-raw>
+        <mj-text padding="0" align="center">
+          <a
+            class="zl-btn zl-btn-fill"
+            href="https://help-web.zlawyer.fr/mise-a-jour-siren-n-de-tva-depuis-la-base-clients/"
+            target="_blank"
+            style="
+              display: block;
+              width: 100%;
+              background-color: #ed630f;
+              color: #ffffff;
+              font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+              font-size: 14px;
+              font-weight: 600;
+              line-height: 20px;
+              padding: 12px 24px;
+              text-align: center;
+              text-decoration: none;
+              border-radius: 999px;
+              border: 2px solid #ed630f;
+              box-sizing: border-box;
+            "
+            ><span style="color: #ffffff !important">Version WEB</span></a
+          >
+        </mj-text>
+        <mj-raw><!--<![endif]--></mj-raw>
+      </mj-column>
+      <mj-column
+        width="50%"
+        css-class="zl-cta-col"
+        padding="0 0 8px 8px"
+        vertical-align="middle"
+      >
+        <mj-raw>
+          <!--[if mso]>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="center">
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://help.zlawyer.fr/mise-a-jour-siren-n-de-tva-depuis-la-base-clients/" style="height:44px;v-text-anchor:middle;width:260px;" arcsize="50%" strokecolor="#ED630F" strokeweight="2px" fillcolor="#ffffff">
+                  <w:anchorlock/>
+                  <center style="color:#ED630F;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Version PC</center>
+                </v:roundrect>
+              </td>
+            </tr>
+          </table>
+          <![endif]-->
+        </mj-raw>
+        <mj-raw><!--[if !mso]><!--></mj-raw>
+        <mj-text padding="0" align="center">
+          <a
+            class="zl-btn zl-btn-outline"
+            href="https://help.zlawyer.fr/mise-a-jour-siren-n-de-tva-depuis-la-base-clients/"
+            target="_blank"
+            style="
+              display: block;
+              width: 100%;
+              background-color: #ffffff;
+              color: #ed630f;
+              font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+              font-size: 14px;
+              font-weight: 600;
+              line-height: 20px;
+              padding: 12px 24px;
+              text-align: center;
+              text-decoration: none;
+              border-radius: 999px;
+              border: 2px solid #ed630f;
+              box-sizing: border-box;
+            "
+            ><span style="color: #ed630f !important">Version PC</span></a
+          >
+        </mj-text>
+        <mj-raw><!--<![endif]--></mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 24px">
+      <mj-column width="100%">
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- 2. Module de recherche -->
+    <mj-section padding="28px 24px 8px">
+      <mj-column width="100%" css-class="zl-full">
+        <mj-text padding="0 0 26px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  border-left: 3px solid #ed630f;
+                  mso-border-left-alt: 3px solid #ed630f;
+                  padding: 0 0 0 10px;
+                  font-size: 17px;
+                  line-height: 1.4;
+                  font-weight: 600;
+                  color: #222e3e;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                2. Un SIREN vous manque&nbsp;? Recherchez-le depuis zLawyer
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Vous ne connaissez pas le SIREN ou le SIRET d'un client&nbsp;? Inutile
+          de quitter zLawyer pour le rechercher.
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Depuis la fiche client, le module de recherche vous permet de
+          retrouver une entreprise et de récupérer ses principales
+          informations&nbsp;: raison sociale, SIREN, SIRET et N° de TVA
+          intracommunautaire.
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Vous complétez ainsi plus facilement vos fiches clients tout en
+          limitant les risques d'erreur de saisie.
+        </mj-text>
+
+        <mj-text
+          padding="0 0 16px"
+          font-size="16px"
+          line-height="1.4"
+          font-weight="600"
+          color="#222E3E"
+          align="left"
+          >Comment utiliser le module de recherche&nbsp;?</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px 28px">
+      <mj-column
+        width="50%"
+        css-class="zl-cta-col"
+        padding="0 8px 8px 0"
+        vertical-align="middle"
+      >
+        <mj-raw>
+          <!--[if mso]>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="center">
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://help-web.zlawyer.fr/mettre-a-jours-les-siren-n-de-tva-des-clients/" style="height:44px;v-text-anchor:middle;width:260px;" arcsize="50%" stroke="f" fillcolor="#ED630F">
+                  <w:anchorlock/>
+                  <center style="color:#ffffff;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Version WEB</center>
+                </v:roundrect>
+              </td>
+            </tr>
+          </table>
+          <![endif]-->
+        </mj-raw>
+        <mj-raw><!--[if !mso]><!--></mj-raw>
+        <mj-text padding="0" align="center">
+          <a
+            class="zl-btn zl-btn-fill"
+            href="https://help-web.zlawyer.fr/mettre-a-jours-les-siren-n-de-tva-des-clients/"
+            target="_blank"
+            style="
+              display: block;
+              width: 100%;
+              background-color: #ed630f;
+              color: #ffffff;
+              font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+              font-size: 14px;
+              font-weight: 600;
+              line-height: 20px;
+              padding: 12px 24px;
+              text-align: center;
+              text-decoration: none;
+              border-radius: 999px;
+              border: 2px solid #ed630f;
+              box-sizing: border-box;
+            "
+            ><span style="color: #ffffff !important">Version WEB</span></a
+          >
+        </mj-text>
+        <mj-raw><!--<![endif]--></mj-raw>
+      </mj-column>
+      <mj-column
+        width="50%"
+        css-class="zl-cta-col"
+        padding="0 0 8px 8px"
+        vertical-align="middle"
+      >
+        <mj-raw>
+          <!--[if mso]>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="center">
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://help.zlawyer.fr/module-recherche-siren-tva-clients/" style="height:44px;v-text-anchor:middle;width:260px;" arcsize="50%" strokecolor="#ED630F" strokeweight="2px" fillcolor="#ffffff">
+                  <w:anchorlock/>
+                  <center style="color:#ED630F;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Version PC</center>
+                </v:roundrect>
+              </td>
+            </tr>
+          </table>
+          <![endif]-->
+        </mj-raw>
+        <mj-raw><!--[if !mso]><!--></mj-raw>
+        <mj-text padding="0" align="center">
+          <a
+            class="zl-btn zl-btn-outline"
+            href="https://help.zlawyer.fr/module-recherche-siren-tva-clients/"
+            target="_blank"
+            style="
+              display: block;
+              width: 100%;
+              background-color: #ffffff;
+              color: #ed630f;
+              font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+              font-size: 14px;
+              font-weight: 600;
+              line-height: 20px;
+              padding: 12px 24px;
+              text-align: center;
+              text-decoration: none;
+              border-radius: 999px;
+              border: 2px solid #ed630f;
+              box-sizing: border-box;
+            "
+            ><span style="color: #ed630f !important">Version PC</span></a
+          >
+        </mj-text>
+        <mj-raw><!--<![endif]--></mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 24px">
+      <mj-column width="100%">
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- 3. Adresse de facturation électronique -->
+    <mj-section padding="28px 24px 8px">
+      <mj-column width="100%" css-class="zl-full">
+        <mj-text padding="0 0 26px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  border-left: 3px solid #ed630f;
+                  mso-border-left-alt: 3px solid #ed630f;
+                  padding: 0 0 0 10px;
+                  font-size: 17px;
+                  line-height: 1.4;
+                  font-weight: 600;
+                  color: #222e3e;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                3. Recherchez l'adresse de facturation électronique de votre
+                client
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Avec la facturation électronique, connaître l'entreprise destinataire
+          ne suffit plus : la facture doit également être acheminée vers la
+          bonne adresse de facturation électronique.
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Cette adresse répond aux règles d'adressage prévues dans le cadre de
+          la réforme et définies par la norme AFNOR. Chaque entreprise organise
+          son propre adressage en fonction de ses besoins : une adresse unique
+          pour l'entreprise ou plusieurs adresses permettant, par exemple,
+          d'orienter les factures vers différents établissements ou services.
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Ces adresses sont référencées dans l'Annuaire de la facturation
+          électronique.
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          À partir du SIREN/SIRET renseigné dans la fiche client, zLawyer
+          interroge directement cet Annuaire :
+        </mj-text>
+
+        <mj-text padding="0 0 14px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                width="28"
+                valign="top"
+                style="padding: 0 8px 0 0; vertical-align: top; width: 28px"
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="20"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      width="20"
+                      height="20"
+                      bgcolor="#fff0e6"
+                      align="center"
+                      valign="middle"
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                    >
+                      <span style="color: #ed630f">1</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td
+                valign="top"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  font-size: 16px;
+                  line-height: 1.55;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                <strong>Une seule adresse</strong> est trouvée : zLawyer la
+                sélectionne automatiquement.
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 14px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                width="28"
+                valign="top"
+                style="padding: 0 8px 0 0; vertical-align: top; width: 28px"
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="20"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      width="20"
+                      height="20"
+                      bgcolor="#fff0e6"
+                      align="center"
+                      valign="middle"
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                    >
+                      <span style="color: #ed630f">2</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td
+                valign="top"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  font-size: 16px;
+                  line-height: 1.55;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                <strong>Plusieurs adresses</strong> sont disponibles : zLawyer
+                vous les propose afin que vous puissiez sélectionner celle
+                correspondant à votre facture.
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 20px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                width="28"
+                valign="top"
+                style="padding: 0 8px 0 0; vertical-align: top; width: 28px"
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="20"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      width="20"
+                      height="20"
+                      bgcolor="#fff0e6"
+                      align="center"
+                      valign="middle"
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                    >
+                      <span style="color: #ed630f">3</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td
+                valign="top"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  font-size: 16px;
+                  line-height: 1.55;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                <strong>Aucune adresse</strong> n'est disponible : zLawyer vous
+                informe qu'aucune Plateforme Agréée (PA) n'a été trouvée pour ce
+                destinataire. La facture ne peut alors pas être transmise par le
+                circuit de facturation électronique et devra être envoyée par le
+                mode d'envoi standard de zLawyer (e-mail).
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text
+          padding="0 0 16px"
+          font-size="16px"
+          line-height="1.4"
+          font-weight="600"
+          color="#222E3E"
+          align="left"
+          >Comment rechercher l'adresse de facturation électronique de votre
+          destinataire&nbsp;?</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 24px 28px">
+      <mj-column
+        width="50%"
+        css-class="zl-cta-col"
+        padding="0 8px 8px 0"
+        vertical-align="middle"
+      >
+        <mj-raw>
+          <!--[if mso]>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="center">
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://help-web.zlawyer.fr/comment-rechercher-ladresse-electronique-de-votre-destinataire/" style="height:44px;v-text-anchor:middle;width:260px;" arcsize="50%" stroke="f" fillcolor="#ED630F">
+                  <w:anchorlock/>
+                  <center style="color:#ffffff;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Version WEB</center>
+                </v:roundrect>
+              </td>
+            </tr>
+          </table>
+          <![endif]-->
+        </mj-raw>
+        <mj-raw><!--[if !mso]><!--></mj-raw>
+        <mj-text padding="0" align="center">
+          <a
+            class="zl-btn zl-btn-fill"
+            href="https://help-web.zlawyer.fr/comment-rechercher-ladresse-electronique-de-votre-destinataire/"
+            target="_blank"
+            style="
+              display: block;
+              width: 100%;
+              background-color: #ed630f;
+              color: #ffffff;
+              font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+              font-size: 14px;
+              font-weight: 600;
+              line-height: 20px;
+              padding: 12px 24px;
+              text-align: center;
+              text-decoration: none;
+              border-radius: 999px;
+              border: 2px solid #ed630f;
+              box-sizing: border-box;
+            "
+            ><span style="color: #ffffff !important">Version WEB</span></a
+          >
+        </mj-text>
+        <mj-raw><!--<![endif]--></mj-raw>
+      </mj-column>
+      <mj-column
+        width="50%"
+        css-class="zl-cta-col"
+        padding="0 0 8px 8px"
+        vertical-align="middle"
+      >
+        <mj-raw>
+          <!--[if mso]>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td align="center">
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://help.zlawyer.fr/rechercher-ladresse-electronique-de-votre-destinataire/" style="height:44px;v-text-anchor:middle;width:260px;" arcsize="50%" strokecolor="#ED630F" strokeweight="2px" fillcolor="#ffffff">
+                  <w:anchorlock/>
+                  <center style="color:#ED630F;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Version PC</center>
+                </v:roundrect>
+              </td>
+            </tr>
+          </table>
+          <![endif]-->
+        </mj-raw>
+        <mj-raw><!--[if !mso]><!--></mj-raw>
+        <mj-text padding="0" align="center">
+          <a
+            class="zl-btn zl-btn-outline"
+            href="https://help.zlawyer.fr/rechercher-ladresse-electronique-de-votre-destinataire/"
+            target="_blank"
+            style="
+              display: block;
+              width: 100%;
+              background-color: #ffffff;
+              color: #ed630f;
+              font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+              font-size: 14px;
+              font-weight: 600;
+              line-height: 20px;
+              padding: 12px 24px;
+              text-align: center;
+              text-decoration: none;
+              border-radius: 999px;
+              border: 2px solid #ed630f;
+              box-sizing: border-box;
+            "
+            ><span style="color: #ed630f !important">Version PC</span></a
+          >
+        </mj-text>
+        <mj-raw><!--<![endif]--></mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 24px">
+      <mj-column width="100%">
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- À faire dès maintenant -->
+    <mj-section padding="28px 24px">
+      <mj-column width="100%" css-class="zl-full">
+        <mj-text padding="0 0 26px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  border-left: 3px solid #ed630f;
+                  mso-border-left-alt: 3px solid #ed630f;
+                  padding: 0 0 0 10px;
+                  font-size: 17px;
+                  line-height: 1.4;
+                  font-weight: 600;
+                  color: #222e3e;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                À faire dès maintenant
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Profitez des prochaines semaines pour préparer votre base
+          clients&nbsp;:
+        </mj-text>
+
+        <mj-text padding="0 0 14px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                width="28"
+                valign="top"
+                style="padding: 0 8px 0 0; vertical-align: top; width: 28px"
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="20"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      width="20"
+                      height="20"
+                      bgcolor="#fff0e6"
+                      align="center"
+                      valign="middle"
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td
+                valign="top"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  font-size: 16px;
+                  line-height: 1.55;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                Vérifiez les SIREN/SIRET et N° de TVA de vos clients
+                professionnels
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 14px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                width="28"
+                valign="top"
+                style="padding: 0 8px 0 0; vertical-align: top; width: 28px"
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="20"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      width="20"
+                      height="20"
+                      bgcolor="#fff0e6"
+                      align="center"
+                      valign="middle"
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td
+                valign="top"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  font-size: 16px;
+                  line-height: 1.55;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                Complétez les informations manquantes grâce au module de
+                recherche zLawyer
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 20px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                width="28"
+                valign="top"
+                style="padding: 0 8px 0 0; vertical-align: top; width: 28px"
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="20"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      width="20"
+                      height="20"
+                      bgcolor="#fff0e6"
+                      align="center"
+                      valign="middle"
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                    >
+                      <span style="color: #ed630f">✓</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td
+                valign="top"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  font-size: 16px;
+                  line-height: 1.55;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                Recherchez et vérifiez leur adresse de facturation électronique
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0" color="#5E6A7B" align="left">
+          Ces vérifications concernent les clients professionnels établis en
+          France pour lesquels vos opérations entrent dans le champ de la
+          facturation électronique.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px 24px">
+      <mj-column width="100%">
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+
+    <!-- Closing -->
+    <mj-section padding="28px 24px">
+      <mj-column width="100%" css-class="zl-full">
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          En préparant votre base dès maintenant, vous serez prêt pour vos
+          premiers envois de factures électroniques depuis zLawyer.
+        </mj-text>
+        <mj-text padding="0" color="#5E6A7B" align="left">
+          <strong>L'équipe zLawyer</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="16px 24px 28px">
+      <mj-column width="100%">
+        <mj-text
+          align="center"
+          padding="0 0 8px"
+          font-size="12px"
+          color="#5E6A7B"
+          >© zLawyer — Tous droits réservés</mj-text
+        >
+        <mj-text align="center" padding="0" font-size="12px" color="#5E6A7B">
+          <a
+            style="
+              color: #5e6a7b;
+              text-decoration: none;
+              mso-color-alt: #5e6a7b;
+            "
+            href="https://www.zlawyer.fr/logiciel-avocats/politques-de-confidentialite/"
+            >Confidentialité</a
+          >
+          •
+          <a
+            style="
+              color: #5e6a7b;
+              text-decoration: none;
+              mso-color-alt: #5e6a7b;
+            "
+            href="https://www.zlawyer.fr/logiciel-avocats/politique-de-cookies/"
+            >Cookies</a
+          >
+          •
+          <a
+            style="
+              color: #5e6a7b;
+              text-decoration: none;
+              mso-color-alt: #5e6a7b;
+            "
+            href="[[UNSUB_LINK_FR_FR]]"
+            >Se désabonner</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
