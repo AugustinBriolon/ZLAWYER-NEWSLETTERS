@@ -27,13 +27,12 @@
     </mj-attributes>
 
     <mj-title
-      >Facturation électronique : préparez dès maintenant vos premiers
-      envois</mj-title
+      >La facturation électronique franchit une nouvelle étape dans
+      zLawyer</mj-title
     >
     <mj-preview
-      >L'envoi de vos factures électroniques depuis zLawyer sera disponible
-      courant septembre. Vérifiez dès maintenant 3 points dans votre base
-      clients.</mj-preview
+      >Courant septembre, émettez vos premières factures électroniques depuis
+      zLawyer via Pennylane. 3 vérifications dans votre base clients.</mj-preview
     >
 
     <mj-style>
@@ -214,8 +213,8 @@
           font-weight="600"
           color="#222E3E"
           align="center"
-          >Facturation électronique : préparez dès maintenant vos premiers
-          envois</mj-text
+          >La facturation électronique franchit une nouvelle étape dans
+          zLawyer&nbsp;!</mj-text
         >
       </mj-column>
     </mj-section>
@@ -224,18 +223,30 @@
     <mj-section padding="0 24px 28px">
       <mj-column width="100%" css-class="zl-full">
         <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
-          Chers utilisateurs zLawyer,
+          Courant septembre, vous pourrez émettre vos premières factures
+          électroniques directement depuis zLawyer, via notre intégration avec
+          <strong>Pennylane</strong>, Plateforme Agréée.
         </mj-text>
 
         <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
-          L'envoi de vos factures électroniques depuis zLawyer sera disponible
-          courant septembre.
+          Aucune urgence pour autant. Vous pourrez continuer à envoyer vos
+          factures comme aujourd'hui, notamment par e-mail, jusqu'à l'entrée en
+          vigueur de l'obligation d'émission qui vous concernera au
+          1<sup>er</sup> septembre 2027.
+        </mj-text>
+
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          L'ouverture de ce nouveau service vous permet simplement d'anticiper à
+          votre rythme : vous familiariser avec la facturation électronique et
+          être prêt si, dès maintenant, l'un de vos clients vous demande de
+          recevoir ses factures par ce nouveau circuit.
         </mj-text>
 
         <mj-text padding="0" color="#5E6A7B" align="left">
-          Pour préparer vos premiers envois et éviter tout blocage au moment du
-          dépôt d'une facture, nous vous recommandons de vérifier dès maintenant
-          <strong>3 points essentiels</strong> dans votre base clients.
+          Pour commencer à l'utiliser,
+          <strong>3 vérifications simples</strong> sont à effectuer dans votre
+          base de clients professionnels (B2B) établis en France, concernés par
+          la facturation électronique.
         </mj-text>
       </mj-column>
     </mj-section>
