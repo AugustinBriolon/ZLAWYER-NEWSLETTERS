@@ -229,24 +229,23 @@
         </mj-text>
 
         <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
-          Aucune urgence pour autant. Vous pourrez continuer à envoyer vos
-          factures comme aujourd'hui, notamment par e-mail, jusqu'à l'entrée en
-          vigueur de l'obligation d'émission qui vous concernera au
+          <strong>Aucune urgence</strong> pour autant. Vous pourrez continuer à
+          envoyer vos factures comme aujourd'hui, notamment par e-mail, jusqu'à
+          l'entrée en vigueur de l'obligation d'émission qui vous concernera au
           1<sup>er</sup> septembre 2027.
         </mj-text>
 
         <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
-          L'ouverture de ce nouveau service vous permet simplement d'anticiper à
-          votre rythme : vous familiariser avec la facturation électronique et
+          L'ouverture de ce nouveau service vous permet d'anticiper à votre
+          rythme : vous familiariser avec la facturation électronique et
           être prêt si, dès maintenant, l'un de vos clients vous demande de
           recevoir ses factures par ce nouveau circuit.
         </mj-text>
 
         <mj-text padding="0" color="#5E6A7B" align="left">
-          Pour commencer à l'utiliser,
-          <strong>3 vérifications simples</strong> sont à effectuer dans votre
-          base de clients professionnels (B2B) établis en France, concernés par
-          la facturation électronique.
+          Avant votre premier envoi,
+          <strong>3 vérifications indispensables</strong> sont à effectuer dans
+          votre base clients professionnels (B2B) établis en France&nbsp;:
         </mj-text>
       </mj-column>
     </mj-section>
