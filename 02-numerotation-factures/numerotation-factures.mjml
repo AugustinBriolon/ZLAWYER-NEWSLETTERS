@@ -15,14 +15,28 @@
       .outlook-fix { mso-line-height-rule: exactly; } /* Force les couleurs pour Outlook PC */ [data-ogsc] { color: inherit !important; } [data-ogsb] { background-color: inherit !important; } /* Empêche les changements de couleur des liens
       au survol */ a { text-decoration: none !important; } a:link { color: inherit !important; text-decoration: none !important; } a:visited { color: inherit !important; text-decoration: none !important; } a:hover { color: inherit
       !important; text-decoration: none !important; } a:active { color: inherit !important; text-decoration: none !important; }
+      @media only screen and (max-width: 480px) {
+        .zl-head-brand table table {
+          margin: 0 auto !important;
+        }
+        .zl-head-brand td[align] {
+          text-align: center !important;
+        }
+        .zl-head-nav {
+          padding-top: 12px !important;
+        }
+        .zl-head-nav div {
+          text-align: center !important;
+        }
+      }
     </mj-style>
   </mj-head>
 
   <mj-body background-color="#ffffff">
     <!-- Header -->
     <mj-section padding="20px 20px 0 20px">
-      <mj-column width="35%" vertical-align="middle">
-        <mj-table>
+      <mj-column width="35%" vertical-align="middle" css-class="zl-head-brand">
+        <mj-table width="auto" align="left">
           <tr>
             <td style="vertical-align: middle; padding: 0; height: 40px; line-height: 40px; mso-line-height-rule: exactly; font-size: 0; overflow: visible" height="40">
               <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
@@ -39,7 +53,7 @@
           </tr>
         </mj-table>
       </mj-column>
-      <mj-column width="65%" padding-top="5px" vertical-align="middle">
+      <mj-column width="65%" padding-top="5px" vertical-align="middle" css-class="zl-head-nav">
         <mj-text align="right" font-size="11px" line-height="1.5">
           <a href="https://www.zlawyer.fr/logiciel-avocats/" style="color: #394454; text-decoration: none; mso-color-alt: #394454">ACCUEIL</a>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
           <a href="https://www.zlawyer.fr/logiciel-avocats/contact/" style="color: #394454; text-decoration: none; mso-color-alt: #394454">CONTACT</a>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;

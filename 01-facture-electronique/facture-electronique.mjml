@@ -16,13 +16,30 @@
       line-height:1.5; font-weight:600; } .muted { color:#5E6A7B; } .tag { display:inline-block; padding:4px 10px; border-radius:999px; background:#FFF0E6; color:#ED630F; font-size:12px; } .link { color:#ED630F; text-decoration:underline; }
       .highlight { color:#ED630F; font-weight:600; }
     </mj-style>
+    <mj-style>
+      @media only screen and (max-width: 480px) {
+        .zl-head-brand table table,
+        .zl-head-brand td[align] > table {
+          margin: 0 auto !important;
+        }
+        .zl-head-brand td[align] {
+          text-align: center !important;
+        }
+        .zl-head-nav {
+          padding-top: 12px !important;
+        }
+        .zl-head-nav div {
+          text-align: center !important;
+        }
+      }
+    </mj-style>
   </mj-head>
 
   <mj-body background-color="#ffffff">
     <!-- Header -->
     <mj-section padding="20px 20px 0 20px">
-      <mj-column width="35%" vertical-align="middle">
-        <mj-table>
+      <mj-column width="35%" vertical-align="middle" css-class="zl-head-brand">
+        <mj-table width="auto" align="left">
           <tr>
             <td style="vertical-align: middle">
               <img src="https://www.zlawyer.fr/logiciel-avocats/images/logos/zeleLogo.png" alt="zLawyer" width="32" height="40" style="display: block" />
@@ -33,7 +50,7 @@
           </tr>
         </mj-table>
       </mj-column>
-      <mj-column width="65%" padding-top="5px">
+      <mj-column width="65%" padding-top="5px" css-class="zl-head-nav">
         <mj-text align="right" font-size="11px">
           <a href="https://www.zlawyer.fr/logiciel-avocats/">
             <span style="color: #394454; text-decoration: none">ACCUEIL<span/>
