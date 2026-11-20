@@ -1,32 +1,30 @@
 ---
-title: "Et si vous profitiez encore davantage de zLawyer ?"
+title: "Découvrez notre catalogue de formations zLawyer et développez vos compétences !"
 date: "2026-11-20"
-description: "Nouveau : des formations zLawyer à distance en petits groupes (5 participants max), thématiques, avec replay. Découvrez le catalogue."
+description: "Formations zLawyer à distance : petits groupes de 5 participants maximum, échanges avec le formateur, replay. Réservez votre place !"
 slug: "formations-a-distance"
 ---
 
-Que vous souhaitiez revoir les fondamentaux, approfondir vos connaissances ou découvrir des fonctionnalités que vous n'utilisez pas encore, nous vous proposons désormais des **formations à distance** pour vous accompagner dans votre utilisation de zLawyer.
+Vous souhaitez approfondir vos connaissances, revoir les fondamentaux ou maîtriser des fonctionnalités que vous n'utilisez pas encore ?
 
-## Des formations à distance en petits groupes
+Nos **formations à distance** sont conçues pour vous aider à exploiter pleinement zLawyer et à gagner en efficacité au quotidien.
 
-Vous utilisez déjà zLawyer au quotidien, mais êtes-vous certain d'en exploiter toutes les possibilités ?
+## Pourquoi participer ?
 
-Nos formations en visioconférence vous permettent de renforcer vos acquis, de maîtriser les fonctionnalités avancées et d'optimiser votre utilisation du logiciel au quotidien.
+- ✓ Des formations pratiques, adaptées aux besoins des cabinets d'avocats
+- ✓ Des petits groupes de **5 participants maximum** pour un accompagnement personnalisé
+- ✓ Des échanges directs avec le formateur pour répondre à vos questions
+- ✓ Un **replay** disponible pour revoir la formation à votre rythme
 
-- ✓ Des groupes limités à **5 participants** pour favoriser les échanges et un accompagnement personnalisé
-- ✓ Des formations thématiques adaptées à vos besoins
-- ✓ La possibilité de poser vos questions directement au formateur
-- ✓ Un **replay** disponible après chaque session
+## Quelques heures de formation pour gagner du temps chaque jour !
 
-## Découvrez notre catalogue de formations !
+Facturation avancée, gestion des dossiers, suivi de l'activité du cabinet… Découvrez tout ce que zLawyer peut encore vous apporter !
 
-Facturation, gestion des dossiers, suivi de l'activité du cabinet… Et si quelques heures de formation vous permettaient de gagner du temps chaque jour ?
+Consultez notre catalogue de formations et **réservez votre place** !
 
-Consultez notre catalogue, découvrez les programmes et les prochaines sessions, et choisissez la formation qui répond le mieux à vos besoins.
+👉 [Consulter le catalogue](https://www.zlawyer.fr/logiciel-avocats/webinaires/)
 
-👉 [Découvrir les formations](https://www.zlawyer.fr/logiciel-avocats/webinaires/)
-
-**Notre objectif :** vous aider à exploiter pleinement les possibilités de zLawyer et à gagner en efficacité au quotidien.
+*Les places sont limitées à 5 participants par session.*
 
 À très bientôt,
 

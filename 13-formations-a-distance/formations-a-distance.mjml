@@ -26,10 +26,10 @@
       <mj-image padding="0" />
     </mj-attributes>
 
-    <mj-title>Et si vous profitiez encore davantage de zLawyer ?</mj-title>
+    <mj-title>Découvrez notre catalogue de formations zLawyer et développez vos compétences !</mj-title>
     <mj-preview
-      >Nouveau : des formations zLawyer à distance en petits groupes (5
-      participants max), thématiques, avec replay. Découvrez le catalogue.</mj-preview
+      >Formations zLawyer à distance : petits groupes de 5 participants
+      maximum, échanges avec le formateur, replay. Réservez votre place !</mj-preview
     >
 
     <mj-style>
@@ -214,7 +214,8 @@
           font-weight="600"
           color="#222E3E"
           align="center"
-          >Et si vous profitiez encore davantage de zLawyer&nbsp;?</mj-text
+          >Découvrez notre catalogue de formations zLawyer et développez vos
+          compétences&nbsp;!</mj-text
         >
       </mj-column>
     </mj-section>
@@ -222,12 +223,15 @@
     <!-- Intro -->
     <mj-section padding="0 24px 28px">
       <mj-column width="100%" css-class="zl-full">
+        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
+          Vous souhaitez approfondir vos connaissances, revoir les fondamentaux
+          ou maîtriser des fonctionnalités que vous n'utilisez pas
+          encore&nbsp;?
+        </mj-text>
         <mj-text padding="0" color="#5E6A7B" align="left">
-          Que vous souhaitiez revoir les fondamentaux, approfondir vos
-          connaissances ou découvrir des fonctionnalités que vous n'utilisez pas
-          encore, nous vous proposons désormais des
-          <strong>formations à distance</strong> pour vous accompagner dans
-          votre utilisation de zLawyer.
+          Nos <strong>formations à distance</strong> sont conçues pour vous
+          aider à exploiter pleinement zLawyer et à gagner en efficacité au
+          quotidien.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -238,7 +242,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- Formations en petits groupes -->
+    <!-- Pourquoi participer -->
     <mj-section padding="28px 24px 8px">
       <mj-column width="100%" css-class="zl-full">
         <mj-text padding="0 0 26px" align="left">
@@ -270,97 +274,7 @@
                   text-align: left;
                 "
               >
-                Des formations à distance en petits groupes
-              </td>
-            </tr>
-          </table>
-        </mj-text>
-
-        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
-          Vous utilisez déjà zLawyer au quotidien, mais êtes-vous certain d'en
-          exploiter toutes les possibilités&nbsp;?
-        </mj-text>
-        <mj-text padding="0 0 24px" color="#5E6A7B" align="left">
-          Nos formations en visioconférence vous permettent de renforcer vos
-          acquis, de maîtriser les fonctionnalités avancées et d'optimiser votre
-          utilisation du logiciel au quotidien.
-        </mj-text>
-        <mj-text padding="0 0 14px" align="left">
-          <table
-            border="0"
-            cellpadding="0"
-            cellspacing="0"
-            width="100%"
-            role="presentation"
-            style="
-              border-collapse: separate;
-              border-spacing: 0;
-              mso-table-lspace: 0pt;
-              mso-table-rspace: 0pt;
-              width: 100%;
-            "
-          >
-            <tr>
-              <td
-                width="28"
-                valign="top"
-                style="padding: 2px 8px 0 0; vertical-align: top; width: 28px"
-              >
-                <table
-                  border="0"
-                  cellpadding="0"
-                  cellspacing="0"
-                  width="20"
-                  style="
-                    border-collapse: collapse;
-                    mso-table-lspace: 0pt;
-                    mso-table-rspace: 0pt;
-                    background-color: #fff0e6;
-                    width: 20px;
-                  "
-                  bgcolor="#fff0e6"
-                >
-                  <tr>
-                    <td
-                      width="20"
-                      height="20"
-                      bgcolor="#fff0e6"
-                      align="center"
-                      valign="middle"
-                      style="
-                        width: 20px;
-                        height: 20px;
-                        padding: 0;
-                        font-size: 12px;
-                        font-weight: 600;
-                        background-color: #fff0e6;
-                        mso-background-color-alt: #fff0e6;
-                        color: #ed630f;
-                        mso-color-alt: #ed630f;
-                        font-family: 'Segoe UI', sans-serif;
-                        line-height: 20px;
-                        mso-line-height-rule: exactly;
-                        text-align: center;
-                      "
-                    >
-                      <span style="color: #ed630f">&#10003;</span>
-                    </td>
-                  </tr>
-                </table>
-              </td>
-              <td
-                valign="top"
-                style="
-                  padding: 0;
-                  vertical-align: top;
-                  color: #5e6a7b;
-                  font-size: 16px;
-                  line-height: 1.55;
-                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-                  text-align: left;
-                "
-              >
-                Des groupes limités à <strong>5 participants</strong> pour favoriser les échanges et un accompagnement personnalisé
+                Pourquoi participer&nbsp;?
               </td>
             </tr>
           </table>
@@ -441,7 +355,7 @@
                   text-align: left;
                 "
               >
-                Des formations thématiques adaptées à vos besoins
+                Des formations pratiques, adaptées aux besoins des cabinets d'avocats
               </td>
             </tr>
           </table>
@@ -522,7 +436,88 @@
                   text-align: left;
                 "
               >
-                La possibilité de poser vos questions directement au formateur
+                Des petits groupes de <strong>5 participants maximum</strong> pour un accompagnement personnalisé
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+
+        <mj-text padding="0 0 14px" align="left">
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            width="100%"
+            role="presentation"
+            style="
+              border-collapse: separate;
+              border-spacing: 0;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              width: 100%;
+            "
+          >
+            <tr>
+              <td
+                width="28"
+                valign="top"
+                style="padding: 2px 8px 0 0; vertical-align: top; width: 28px"
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="20"
+                  style="
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                    background-color: #fff0e6;
+                    width: 20px;
+                  "
+                  bgcolor="#fff0e6"
+                >
+                  <tr>
+                    <td
+                      width="20"
+                      height="20"
+                      bgcolor="#fff0e6"
+                      align="center"
+                      valign="middle"
+                      style="
+                        width: 20px;
+                        height: 20px;
+                        padding: 0;
+                        font-size: 12px;
+                        font-weight: 600;
+                        background-color: #fff0e6;
+                        mso-background-color-alt: #fff0e6;
+                        color: #ed630f;
+                        mso-color-alt: #ed630f;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 20px;
+                        mso-line-height-rule: exactly;
+                        text-align: center;
+                      "
+                    >
+                      <span style="color: #ed630f">&#10003;</span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+              <td
+                valign="top"
+                style="
+                  padding: 0;
+                  vertical-align: top;
+                  color: #5e6a7b;
+                  font-size: 16px;
+                  line-height: 1.55;
+                  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                  text-align: left;
+                "
+              >
+                Des échanges directs avec le formateur pour répondre à vos questions
               </td>
             </tr>
           </table>
@@ -603,7 +598,7 @@
                   text-align: left;
                 "
               >
-                Un <strong>replay</strong> disponible après chaque session
+                Un <strong>replay</strong> disponible pour revoir la formation à votre rythme
               </td>
             </tr>
           </table>
@@ -649,21 +644,20 @@
                   text-align: left;
                 "
               >
-                Découvrez notre catalogue de formations&nbsp;!
+                Quelques heures de formation pour gagner du temps chaque jour&nbsp;!
               </td>
             </tr>
           </table>
         </mj-text>
 
         <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
-          Facturation, gestion des dossiers, suivi de l'activité du cabinet…
-          Et si quelques heures de formation vous permettaient de gagner du
-          temps chaque jour&nbsp;?
+          Facturation avancée, gestion des dossiers, suivi de l'activité du
+          cabinet… Découvrez tout ce que zLawyer peut encore vous
+          apporter&nbsp;!
         </mj-text>
         <mj-text padding="0 0 24px" color="#5E6A7B" align="left">
-          Consultez notre catalogue, découvrez les programmes et les prochaines
-          sessions, et choisissez la formation qui répond le mieux à vos
-          besoins.
+          Consultez notre catalogue de formations et
+          <strong>réservez votre place</strong>&nbsp;!
         </mj-text>
 
         <mj-raw>
@@ -673,7 +667,7 @@
               <td align="center">
                 <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.zlawyer.fr/logiciel-avocats/webinaires/" style="height:44px;v-text-anchor:middle;width:280px;" arcsize="50%" stroke="f" fillcolor="#ED630F">
                   <w:anchorlock/>
-                  <center style="color:#ffffff;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Découvrir les formations</center>
+                  <center style="color:#ffffff;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Consulter le catalogue</center>
                 </v:roundrect>
               </td>
             </tr>
@@ -704,11 +698,14 @@
               box-sizing: border-box;
             "
             ><span style="color: #ffffff !important"
-              >Découvrir les formations</span
+              >Consulter le catalogue</span
             ></a
           >
         </mj-text>
         <mj-raw><!--<![endif]--></mj-raw>
+        <mj-text padding="16px 0 0" font-size="13px" color="#5E6A7B" align="center">
+          Les places sont limitées à 5 participants par session.
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -721,11 +718,6 @@
     <!-- Closing -->
     <mj-section padding="28px 24px">
       <mj-column width="100%" css-class="zl-full">
-        <mj-text padding="0 0 20px" color="#5E6A7B" align="left">
-          <strong>Notre objectif&nbsp;:</strong> vous aider à exploiter
-          pleinement les possibilités de zLawyer et à gagner en efficacité au
-          quotidien.
-        </mj-text>
         <mj-text padding="0 0 20px" color="#5E6A7B" align="left"
           >À très bientôt,</mj-text
         >
