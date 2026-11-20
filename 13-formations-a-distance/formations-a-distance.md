@@ -22,9 +22,9 @@ Nos formations en visioconférence vous permettent de renforcer vos acquis, de m
 
 Facturation, gestion des dossiers, suivi de l'activité du cabinet… Et si quelques heures de formation vous permettaient de gagner du temps chaque jour ?
 
-Consultez notre catalogue, découvrez les programmes et choisissez la formation qui répond le mieux à vos besoins.
+Consultez notre catalogue, découvrez les programmes et les prochaines sessions, et choisissez la formation qui répond le mieux à vos besoins.
 
-👉 [Découvrir les formations et les prochaines sessions](https://client.zlawyer.fr/formations)
+👉 [Découvrir les formations](https://client.zlawyer.fr/formations)
 
 **Notre objectif :** vous aider à exploiter pleinement les possibilités de zLawyer et à gagner en efficacité au quotidien.
 
