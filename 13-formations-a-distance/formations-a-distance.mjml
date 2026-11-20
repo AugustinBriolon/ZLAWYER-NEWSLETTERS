@@ -655,16 +655,17 @@
           cabinet… Découvrez tout ce que zLawyer peut encore vous
           apporter&nbsp;!
         </mj-text>
-        <mj-text padding="0 0 24px" color="#5E6A7B" align="left">
+        <mj-text padding="0" color="#5E6A7B" align="left">
           Consultez notre catalogue de formations et
           <strong>réservez votre place</strong>&nbsp;!
         </mj-text>
 
         <mj-raw>
           <!--[if mso]>
+          <tr><td style="padding:0;">
           <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
             <tr>
-              <td align="center">
+              <td align="center" style="padding-top:24px;">
                 <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.zlawyer.fr/logiciel-avocats/webinaires/" style="height:44px;v-text-anchor:middle;width:280px;" arcsize="50%" stroke="f" fillcolor="#ED630F">
                   <w:anchorlock/>
                   <center style="color:#ffffff;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Consulter le catalogue</center>
@@ -672,10 +673,11 @@
               </td>
             </tr>
           </table>
+          </td></tr>
           <![endif]-->
         </mj-raw>
         <mj-raw><!--[if !mso]><!--></mj-raw>
-        <mj-text padding="0" align="center">
+        <mj-text padding="24px 0 0" align="center">
           <a
             class="zl-btn zl-btn-fill"
             href="https://www.zlawyer.fr/logiciel-avocats/webinaires/"
