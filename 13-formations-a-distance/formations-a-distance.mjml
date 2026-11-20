@@ -652,7 +652,7 @@
           <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
             <tr>
               <td align="center">
-                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://client.zlawyer.fr/formations" style="height:44px;v-text-anchor:middle;width:280px;" arcsize="50%" stroke="f" fillcolor="#ED630F">
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.zlawyer.fr/logiciel-avocats/webinaires/" style="height:44px;v-text-anchor:middle;width:280px;" arcsize="50%" stroke="f" fillcolor="#ED630F">
                   <w:anchorlock/>
                   <center style="color:#ffffff;font-family:'Segoe UI',sans-serif;font-size:14px;font-weight:600;">Découvrir les formations</center>
                 </v:roundrect>
@@ -665,7 +665,7 @@
         <mj-text padding="0" align="center">
           <a
             class="zl-btn zl-btn-fill"
-            href="https://client.zlawyer.fr/formations"
+            href="https://www.zlawyer.fr/logiciel-avocats/webinaires/"
             style="
               display: block;
               width: 100%;

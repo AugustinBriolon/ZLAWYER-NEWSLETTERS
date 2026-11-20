@@ -24,7 +24,7 @@ Facturation, gestion des dossiers, suivi de l'activité du cabinet… Et si quel
 
 Consultez notre catalogue, découvrez les programmes et les prochaines sessions, et choisissez la formation qui répond le mieux à vos besoins.
 
-👉 [Découvrir les formations](https://client.zlawyer.fr/formations)
+👉 [Découvrir les formations](https://www.zlawyer.fr/logiciel-avocats/webinaires/)
 
 **Notre objectif :** vous aider à exploiter pleinement les possibilités de zLawyer et à gagner en efficacité au quotidien.
 
